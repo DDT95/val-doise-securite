@@ -13,7 +13,7 @@
   <a class="brand-logo-link" href="https://ddt95.github.io/atlas-territorial-95/" aria-label="Retour à l'Atlas territorial"><img class="brand-logo" src="assets/prefet-val-doise.svg" alt="Préfet du Val-d'Oise"></a>
   <div class="title-block"><span class="eyebrow">SÉCURITÉ · SECOURS · VAL-D'OISE</span><h1>Qui intervient, où et comment ?</h1><p>Police, gendarmerie et sapeurs-pompiers expliqués à hauteur de territoire</p></div>
   <button id="mobileLayers" class="mobile-layers" aria-controls="layerSidebar" aria-expanded="false">Données</button>
-  <a class="livebox" href="fiche.html"><span class="fresh-dot"></span><div><strong>Données & évolutions</strong><small>Indicateurs SSMSI · 2016–2025</small></div></a>
+  <button id="openDataTop" class="livebox"><span class="fresh-dot"></span><div><strong>Données & évolutions</strong><small>Indicateurs SSMSI · 2016–2025</small></div></button>
 </header>
 
 <main class="workspace">
@@ -21,7 +21,7 @@
     <div class="sidebar-intro"><div><span class="eyebrow">LECTURE CARTOGRAPHIQUE</span><h2>Explorer la sécurité</h2><p>Choisissez une commune pour connaître la force territorialement compétente et repérer les services de proximité.</p></div></div>
     <label class="search-box"><span>Rechercher une commune</span><div><input id="searchInput" type="search" placeholder="Ex. Pontoise" autocomplete="off"><button id="searchButton" aria-label="Rechercher">→</button></div></label>
     <div id="searchResults" class="search-results" hidden></div>
-    <div class="quick-actions"><button id="resetView">Recentrer</button><a href="fiche.html">Données & évolutions</a></div>
+    <div class="quick-actions"><button id="resetView">Recentrer</button><button id="openData">Données & évolutions</button></div>
 
     <div class="layer-group" aria-label="Périmètres de compétence"><span>PÉRIMÈTRES DE COMPÉTENCE</span><div class="layer-cards">
       <button type="button" class="layer-card active" data-layer="policeZone"><i class="layer-swatch police" aria-hidden="true"></i><span><b>Zone Police nationale</b><small>Périmètre communal PN</small></span><i class="layer-switch" aria-hidden="true"></i></button>
@@ -46,5 +46,6 @@
   <h3>Sources et limites</h3><ul><li>Ministère de l’Intérieur, référentiel « Compétence territoriale gendarmerie et police nationales », août 2026.</li><li>Contours communaux : API Découpage administratif, géographie courante.</li><li>Implantations : OpenStreetMap, extraction du 10 août 2026 — 42 centres de secours, 21 implantations de Police nationale et 19 de Gendarmerie nationale.</li><li>Les données OpenStreetMap sont contributives : vérifiez l’adresse, l’accueil du public et les horaires avant tout déplacement. La carte ne représente pas les délais ni les secteurs opérationnels des pompiers.</li></ul>
   <div class="source-cards"><div class="source-card"><h3>Ministère de l’Intérieur</h3><p>Référentiel national de compétence PN/GN.</p><a href="https://www.data.gouv.fr/datasets/competence-territoriale-gendarmerie-et-police-nationales" target="_blank" rel="noopener">Voir la source ↗</a></div><div class="source-card"><h3>Ma Sécurité</h3><p>Démarches, conseils et échange avec les forces de sécurité.</p><a href="https://www.masecurite.interieur.gouv.fr/" target="_blank" rel="noopener">Accéder au service ↗</a></div></div>
 </div></dialog>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script><script src="js/app.js?v=1"></script>
+<dialog id="dataDialog" class="dialog data-dialog"><button class="dialog-close" data-close="dataDialog" aria-label="Fermer">×</button><div class="dialog-header data-dialog-head"><span class="eyebrow">PORTRAIT DÉPARTEMENTAL</span><h2>Données & évolutions</h2><p>Organisation territoriale des forces et délinquance enregistrée dans le Val-d’Oise.</p></div><div id="analyticsContent" class="dialog-body analytics-content"><div class="analytics-loading">Préparation des indicateurs…</div></div></dialog>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script><script src="js/app.js?v=1"></script><script src="js/analytics.js?v=1"></script>
 </body></html>
