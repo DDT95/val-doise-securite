@@ -7,2392 +7,2874 @@
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-
-{
-  "type": "node",
-  "id": 244168924,
-  "lat": 49.0309028,
-  "lon": 2.4579776,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 265113524,
-  "lat": 48.9288494,
-  "lon": 2.2144976,
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Bezons",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "fr:Police nationale (France)",
-    "phone": "+33 1 39 96 53 50",
-    "police:FR": "police",
-    "wikidata": "Q61954644"
-  }
-},
-{
-  "type": "node",
-  "id": 562974222,
-  "lat": 49.0180171,
-  "lon": 2.1000581,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "operator:type": "public",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 614271602,
-  "lat": 48.9692175,
-  "lon": 2.3075840,
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police d'Enghien Les Bains",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 34 05 25 55",
-    "police:FR": "police",
-    "wikidata": "Q61954640"
-  }
-},
-{
-  "type": "node",
-  "id": 614271608,
-  "lat": 48.9716086,
-  "lon": 2.3096788,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 967271894,
-  "lat": 49.0667534,
-  "lon": 2.1818389,
-  "tags": {
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Méry-sur-Oise",
-    "opening_hours": "Mo-Sa 08:00-12:00,15:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale (France)",
-    "phone": "+33 1 30 36 06 00",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003398",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03"
-  }
-},
-{
-  "type": "node",
-  "id": 992609858,
-  "lat": 48.9705623,
-  "lon": 2.4022265,
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Garges les Gonesse",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "fr:Police nationale (France)",
-    "phone": "+33 1 30 11 12 12",
-    "police:FR": "police",
-    "wikidata": "Q61954650"
-  }
-},
-{
-  "type": "node",
-  "id": 1524892628,
-  "lat": 49.0464793,
-  "lon": 2.1060284,
-  "tags": {
-    "amenity": "police",
-    "name": "Direction Départementale Polices Urbaines",
-    "short_name": "DDPU"
-  }
-},
-{
-  "type": "node",
-  "id": 1786714866,
-  "lat": 49.0483546,
-  "lon": 2.0340587,
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Commissariat subdivisionnaire de police de Cergy Saint-Christophe",
-    "operator": "Police nationale",
-    "operator:type": "public",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "en:National Police (France)",
-    "police:FR": "police",
-    "source": "local_knowledge"
-  }
-},
-{
-  "type": "node",
-  "id": 1936965155,
-  "lat": 48.9525176,
-  "lon": 2.2274313,
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Poste de Police du Val d'Argent Nord",
-    "operator": "Police nationale",
-    "operator:type": "public",
-    "operator:wikidata": "Q121484",
-    "police:FR": "police"
-  }
-},
-{
-  "type": "node",
-  "id": 2306299362,
-  "lat": 49.0085098,
-  "lon": 2.1997045,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2344096894,
-  "lat": 48.9959899,
-  "lon": 2.1995919,
-  "tags": {
-    "addr:city": "Montigny-lès-Cormeilles",
-    "addr:postcode": "95370",
-    "addr:street": "Avenue Aristide Maillol",
-    "amenity": "police",
-    "name": "Police municipale",
-    "phone": "+33 1 30 26 30 82",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 2584777623,
-  "lat": 49.1120241,
-  "lon": 2.2161084,
-  "tags": {
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de l'Isle-Adam",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-19:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "en:National Gendarmerie",
-    "phone": "+33 1 34 69 73 30",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003384",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03"
-  }
-},
-{
-  "type": "node",
-  "id": 3088120565,
-  "lat": 49.0226242,
-  "lon": 2.3846180,
-  "tags": {
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie d'Écouen",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 34 29 47 80",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003408"
-  }
-},
-{
-  "type": "node",
-  "id": 3589857756,
-  "lat": 49.0186309,
-  "lon": 2.2445536,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 4195908800,
-  "lat": 49.0240857,
-  "lon": 2.2271661,
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "en:National Police (France)",
-    "police:FR": "police"
-  }
-},
-{
-  "type": "node",
-  "id": 4499335089,
-  "lat": 48.9675647,
-  "lon": 2.2854529,
-  "tags": {
-    "addr:city": "Saint-Gratien",
-    "addr:housenumber": "3",
-    "addr:postcode": "95210",
-    "addr:street": "Allée Maurice Ravel",
-    "amenity": "police",
-    "mapillary": "970305573777757",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "survey:date": "2018-03-26"
-  }
-},
-{
-  "type": "node",
-  "id": 4559016924,
-  "lat": 48.9860149,
-  "lon": 2.3137453,
-  "tags": {
-    "addr:city": "Montmorency",
-    "addr:housenumber": "6",
-    "addr:postcode": "95160",
-    "addr:street": "Rue de Valmy",
-    "amenity": "police",
-    "name": "Police nationale",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "police:FR": "police"
-  }
-},
-{
-  "type": "node",
-  "id": 4559016950,
-  "lat": 48.9911433,
-  "lon": 2.3171388,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 4640547708,
-  "lat": 49.0678426,
-  "lon": 2.3186631,
-  "tags": {
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie de Montsoult",
-    "opening_hours": "Mo-Sa 08:00-12:00,15:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 34 73 53 10",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003385",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "node",
-  "id": 4798174584,
-  "lat": 49.0209524,
-  "lon": 2.0209023,
-  "tags": {
-    "amenity": "police",
-    "check_date": "2024-06-23",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Jouy-le-Moutier",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 30 27 20 60",
-    "police:FR": "police",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
-    "wikidata": "Q61954653"
-  }
-},
-{
-  "type": "node",
-  "id": 5204638300,
-  "lat": 49.0659594,
-  "lon": 2.0622820,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 5368250183,
-  "lat": 49.0372138,
-  "lon": 2.0864367,
-  "tags": {
-    "amenity": "police",
-    "fax": "+33 1 30 75 56 02",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Pontoise",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 30 75 56 02",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003394",
-    "source": "Annuaire de l'administration - 03/2017"
-  }
-},
-{
-  "type": "node",
-  "id": 5469180916,
-  "lat": 49.0019695,
-  "lon": 2.4214825,
-  "tags": {
-    "addr:housenumber": "7",
-    "amenity": "police",
-    "mapillary": "142770371196084",
-    "name": "Police municipale",
-    "phone": "+33 1 34 53 89 89",
-    "police:FR": "police_municipale",
-    "survey:date": "2018-03-10"
-  }
-},
-{
-  "type": "node",
-  "id": 5764393937,
-  "lat": 49.1260232,
-  "lon": 2.3692536,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 6060852050,
-  "lat": 49.1386663,
-  "lon": 2.3739877,
-  "tags": {
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "note": "Cadastre à importer quand disponible",
-    "official_name": "Gendarmerie - Brigade d'Asnières-sur-Oise",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 34 31 20 80",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003388",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03"
-  }
-},
-{
-  "type": "node",
-  "id": 6093271833,
-  "lat": 48.9903217,
-  "lon": 2.3274710,
-  "tags": {
-    "addr:housenumber": "2",
-    "addr:postcode": "95160",
-    "addr:street": "Rue des Gallérands",
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Montmorency",
-    "opening_hours": "Mo-Sa 08:00-12:00; PH 09:00-12:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 39 64 14 32",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003407",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03"
-  }
-},
-{
-  "type": "node",
-  "id": 6132729441,
-  "lat": 48.9565702,
-  "lon": 2.1964313,
-  "tags": {
-    "addr:city": "Cormeilles-en-Parisis",
-    "addr:postcode": "95240",
-    "addr:street": "Rue des Frères Lumière",
-    "amenity": "police",
-    "name": "Police nationale",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "fr:Police nationale (France)",
-    "police:FR": "police"
-  }
-},
-{
-  "type": "node",
-  "id": 6132732724,
-  "lat": 49.0323584,
-  "lon": 2.4728361,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "opening_hours": "Mo-Th 08:30-12:00,13:00-18:00; Fr 08:30-12:00,13:00-17:30; Sa 08:30-12:00",
-    "phone": "+33 1 39 94 60 99",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 6165420211,
-  "lat": 49.0509384,
-  "lon": 2.2059970,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 6194882341,
-  "lat": 49.0002884,
-  "lon": 2.2256595,
-  "tags": {
-    "addr:housenumber": "156",
-    "addr:street": "Chaussée Jules César",
-    "amenity": "police",
-    "check_date": "2025-07-22",
-    "name": "Police municipale",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-17:30; Sa 08:00-12:00",
-    "phone": "+33 1 30 72 02 56",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 6241770111,
-  "lat": 48.9898850,
-  "lon": 2.2612839,
-  "tags": {
-    "addr:city": "Ermont",
-    "addr:housenumber": "27",
-    "addr:street": "Rue de la Halte",
-    "amenity": "police",
-    "name": "Police Municipale",
-    "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:00; We 08:00-12:00,13:30-16:00; Th,Sa 08:00-12:00",
-    "phone": "+33 1 30 72 31 52",
-    "police:FR": "police_municipale",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 7658556412,
-  "lat": 49.0448977,
-  "lon": 2.3200412,
-  "tags": {
-    "addr:city": "Bouffémont",
-    "addr:postcode": "95570",
-    "addr:street": "Rue Ferdinand de Lesseps",
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 9051101249,
-  "lat": 48.9920796,
-  "lon": 2.1659807,
-  "tags": {
-    "amenity": "police"
-  }
-},
-{
-  "type": "node",
-  "id": 9448251085,
-  "lat": 49.0414883,
-  "lon": 2.3375921,
-  "tags": {
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie de Domont",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 39 35 58 50",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003409",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "node",
-  "id": 9563219399,
-  "lat": 48.9723401,
-  "lon": 2.3223966,
-  "tags": {
-    "addr:city": "Deuil-la-Barre",
-    "addr:housenumber": "2",
-    "addr:postcode": "95170",
-    "addr:street": "Rue Eugène Lamarre",
-    "amenity": "police",
-    "name": "Police Nationale et Municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 9872029498,
-  "lat": 49.1431178,
-  "lon": 2.2867610,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 10001320690,
-  "lat": 49.0371853,
-  "lon": 2.2119574,
-  "tags": {
-    "addr:city": "Bessancourt",
-    "addr:housenumber": "1",
-    "addr:postcode": "95550",
-    "addr:street": "Avenue de la République",
-    "amenity": "police",
-    "contact:phone": "+33 1 30 40 44 22",
-    "name": "Police Municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 10096344934,
-  "lat": 49.0754600,
-  "lon": 2.2025120,
-  "tags": {
-    "amenity": "police",
-    "name": "Police Municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 11545733182,
-  "lat": 48.9683560,
-  "lon": 2.1928705,
-  "tags": {
-    "addr:city": "Cormeilles-en-Parisis",
-    "addr:housenumber": "6",
-    "addr:place": "Place de la Brigadière Clarissa Jean-Philippe",
-    "addr:postcode": "95240",
-    "amenity": "police",
-    "check_date": "2026-02-16",
-    "name": "Police municipale",
-    "opening_hours": "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:15-17:30",
-    "phone": "+33 1 34 50 47 22",
-    "police:FR": "police_municipale",
-    "start_date": "2023-05-13"
-  }
-},
-{
-  "type": "node",
-  "id": 11869823932,
-  "lat": 49.0033547,
-  "lon": 2.3542697,
-  "tags": {
-    "addr:city": "Saint-Brice-sous-Forêt",
-    "addr:housenumber": "97",
-    "addr:postcode": "95350",
-    "addr:street": "Rue de Paris",
-    "amenity": "police",
-    "name": "Police municipal"
-  }
-},
-{
-  "type": "node",
-  "id": 12251266364,
-  "lat": 49.0090993,
-  "lon": 2.2842928,
-  "tags": {
-    "amenity": "police"
-  }
-},
-{
-  "type": "node",
-  "id": 12550880314,
-  "lat": 49.0081208,
-  "lon": 2.2427092,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale de Saint-Leu la Forêt",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 13478943340,
-  "lat": 49.0318764,
-  "lon": 2.3625332,
-  "tags": {
-    "amenity": "police",
-    "name": "Police municipale",
-    "police:FR": "police_municipale"
-  }
-},
-{
-  "type": "node",
-  "id": 13646556501,
-  "lat": 49.0005224,
-  "lon": 2.1451395,
-  "tags": {
-    "addr:housenumber": "220",
-    "addr:postcode": "95220",
-    "addr:street": "Route de Conflans",
-    "amenity": "police",
-    "check_date": "2026-03-14",
-    "check_date:opening_hours": "2026-03-14",
-    "email": "policemunicipale@herblay.fr",
-    "name": "Police Municipale",
-    "opening_hours": "Mo-Su 07:00-03:00",
-    "phone": "+33 1 30 40 48 00",
-    "website": "https://www.herblaysurseine.fr/service/police-municipale/"
-  }
-},
-{
-  "type": "way",
-  "id": 27755025,
-  "center": {
-    "lat": 49.0300699,
-    "lon": 1.9931965
-  },
-  "tags": {
-    "addr:city": "Courdimanche",
-    "addr:full": "Rue de la côte des Auges 95800 Courdimanche",
-    "addr:postcode": "95800",
-    "addr:street": "Rue de la Côte des Auges",
-    "amenity": "fire_station",
-    "check_date": "2025-05-01",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Courdimanche",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 46 30 10",
-    "ref": "COU",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Courdimanche"
-  }
-},
-{
-  "type": "way",
-  "id": 41526379,
-  "center": {
-    "lat": 49.0582703,
-    "lon": 2.0912622
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade motorisée de Pontoise",
-    "opening_hours": "Tu 08:00-12:00; Fr 08:00-12:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 30 30 75 10",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003376",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "way",
-  "id": 68998899,
-  "center": {
-    "lat": 48.9713792,
-    "lon": 2.2591098
-  },
-  "tags": {
-    "addr:housenumber": "44",
-    "amenity": "police",
-    "building": "yes",
-    "building:levels": "3",
-    "name": "Police nationale et municipale",
-    "police:FR": "police_municipale; police",
-    "roof:shape": "gabled",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 70336944,
-  "center": {
-    "lat": 48.9466126,
-    "lon": 2.2544411
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "building:levels": "2",
-    "loc_name": "Espace Municipal de Sécurité",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 75929049,
-  "center": {
-    "lat": 48.9849110,
-    "lon": 2.2277293
-  },
-  "tags": {
-    "addr:city": "Franconville",
-    "addr:housenumber": "10",
-    "addr:postcode": "95130",
-    "addr:street": "Boulevard Maurice Berteaux",
-    "amenity": "police",
-    "building": "yes",
-    "check_date": "2024-10-24",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Franconville",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 30 72 61 50",
-    "police:FR": "police",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "source:amenity": "survey",
-    "wikidata": "Q61954649"
-  }
-},
-{
-  "type": "way",
-  "id": 75931617,
-  "center": {
-    "lat": 48.9844789,
-    "lon": 2.2357153
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "official_name": "Police intercommunale",
-    "operator:type": "public",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 77473406,
-  "center": {
-    "lat": 48.9929953,
-    "lon": 2.2745273
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "official_name": "Police Municipale Intercommunale",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "source:amenity": "survey"
-  }
-},
-{
-  "type": "way",
-  "id": 85313806,
-  "center": {
-    "lat": 48.9894566,
-    "lon": 2.1648910
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police d'Herblay",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 30 26 35 50",
-    "police:FR": "police",
-    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
-    "wikidata": "Q61954642"
-  }
-},
-{
-  "type": "way",
-  "id": 85315060,
-  "center": {
-    "lat": 48.9907186,
-    "lon": 2.1642279
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 99307155,
-  "center": {
-    "lat": 49.0207865,
-    "lon": 2.0545445
-  },
-  "tags": {
-    "addr:city": "Neuville-sur-Oise",
-    "addr:full": "33 rue des Moulines 95000 Neuville-sur-Oise",
-    "addr:housenumber": "33",
-    "addr:postcode": "95000",
-    "addr:street": "Rue des Moulines",
-    "amenity": "fire_station",
-    "building": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Neuville-sur-Oise",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 75 63 90",
-    "ref": "NEU",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CS Neuville-sur-Oise",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
-  }
-},
-{
-  "type": "way",
-  "id": 100336797,
-  "center": {
-    "lat": 48.9890100,
-    "lon": 2.2486420
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "check_date": "2025-02-22",
-    "layer": "1",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police d'Ermont",
-    "opening_hours": "24/7",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "en:National Police (France)",
-    "phone": "+33 1 30 72 66 66",
-    "police:FR": "police",
-    "roof:colour": "#65555F",
-    "roof:shape": "flat",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-    "source:amenity": "survey",
-    "wikidata": "Q61954641"
-  }
-},
-{
-  "type": "way",
-  "id": 100634296,
-  "center": {
-    "lat": 49.0135255,
-    "lon": 2.0439070
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "check_date": "2026-08-01",
-    "name": "Police municipale",
-    "opening_hours": "Mo-Fr 09:30-12:00,13:30-18:00",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 101166992,
-  "center": {
-    "lat": 49.0599740,
-    "lon": 2.0626795
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police nationale",
-    "official_name": "Commissariat subdivisionnaire de police d'Osny",
-    "operator": "Police nationale",
-    "police:FR": "police",
-    "source": "Service-Public.fr - 10/2016;Cadastre. Mise à jour : 2011;survey"
-  }
-},
-{
-  "type": "way",
-  "id": 103720696,
-  "center": {
-    "lat": 49.0123705,
-    "lon": 2.2073300
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "operator": "Ville de Taverny",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 104936289,
-  "center": {
-    "lat": 49.0154930,
-    "lon": 2.5278195
-  },
-  "tags": {
-    "amenity": "fire_station",
-    "building": "fire_station",
-    "fire_station:type:FR": "SSLIA",
-    "name": "SSLIA Nord Paris-CDG",
-    "operator": "Groupe ADP",
-    "operator:type": "private",
-    "operator:wikidata": "Q794563",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 105034866,
-  "center": {
-    "lat": 48.9846755,
-    "lon": 2.4484780
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Gonesse",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 34 45 19 00",
-    "police:FR": "police",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-    "source_1": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
-    "wikidata": "Q61954651"
-  }
-},
-{
-  "type": "way",
-  "id": 131771927,
-  "center": {
-    "lat": 49.0462310,
-    "lon": 2.5131760
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "public",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie de Louvres",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-19:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 30 29 39 70",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003411",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "way",
-  "id": 131795318,
-  "center": {
-    "lat": 49.0051560,
-    "lon": 2.3001195
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police nationale",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "operator:wikipedia": "en:National Police (France)",
-    "police:FR": "police",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 131925684,
-  "center": {
-    "lat": 49.0988427,
-    "lon": 2.5131340
-  },
-  "tags": {
-    "addr:city": "Fosses",
-    "addr:housenumber": "41",
-    "addr:postcode": "95470",
-    "addr:street": "Avenue de la Haute Grève",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie de Fosses",
-    "official_name": "Brigade de gendarmerie de Fosses",
-    "opening_hours": "Mo-Su off",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 34 72 10 20",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003410",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "way",
-  "id": 143327568,
-  "center": {
-    "lat": 49.0472850,
-    "lon": 2.0969229
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police nationale",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "police:FR": "police",
-    "ref": "Commissariat subdivisionnaire de police de Pontoise",
-    "source": "Service-Public.fr - 06/2013"
-  }
-},
-{
-  "type": "way",
-  "id": 147091979,
-  "center": {
-    "lat": 49.0235845,
-    "lon": 2.1573749
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
-  }
-},
-{
-  "type": "way",
-  "id": 147418082,
-  "center": {
-    "lat": 49.1098839,
-    "lon": 2.4224375
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Luzarches",
-    "opening_hours": "Mo 08:00-12:00,14:00-19:00; Tu 14:00-19:00; We 08:00-12:00,14:00-19:00; Th 14:00-19:00; Fr 08:00-12:00,14:00-19:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 34 71 00 36",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003389",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03"
-  }
-},
-{
-  "type": "way",
-  "id": 147524313,
-  "center": {
-    "lat": 49.0755919,
-    "lon": 2.1615231
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie d'Auvers-sur-Oise",
-    "opening_hours": "Mo-Sa 08:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "operator:wikipedia": "fr:Gendarmerie nationale française",
-    "phone": "+33 1 30 36 70 17",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003395"
-  }
-},
-{
-  "type": "way",
-  "id": 147847420,
-  "center": {
-    "lat": 49.0019276,
-    "lon": 2.4725189
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police Municipale",
-    "police": "FR=police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
-  }
-},
-{
-  "type": "way",
-  "id": 147852424,
-  "center": {
-    "lat": 48.9632277,
-    "lon": 2.4430580
-  },
-  "tags": {
-    "amenity": "fire_station",
-    "building": "fire_station",
-    "fire_station:type:FR": "SSLIA",
-    "name": "SSLIA LBG",
-    "operator": "Groupe ADP",
-    "operator:type": "private",
-    "operator:wikidata": "Q794563",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
-  }
-},
-{
-  "type": "way",
-  "id": 147852458,
-  "center": {
-    "lat": 48.9584835,
-    "lon": 2.4456973
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie des transports aériens",
-    "operator": "Police nationale",
-    "police:FR": "police",
-    "short_name": "GTA",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
-  }
-},
-{
-  "type": "way",
-  "id": 171824956,
-  "center": {
-    "lat": 48.9774357,
-    "lon": 2.3701776
-  },
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Sarcelles",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 34 38 37 37",
-    "police:FR": "police",
-    "wikidata": "Q61954654"
-  }
-},
-{
-  "type": "way",
-  "id": 252744215,
-  "center": {
-    "lat": 49.0558828,
-    "lon": 2.0664954
-  },
-  "tags": {
-    "addr:city": "Osny",
-    "addr:full": "10 rue du Général de Gaulle 95520 Osny",
-    "addr:housename": "Centre de secours",
-    "addr:housenumber": "10",
-    "addr:postcode": "95520",
-    "addr:street": "Rue du Général de Gaulle",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CSP",
-    "name": "Centre de secours principal d'Osny",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 17 71 60",
-    "ref": "OSN",
-    "ref:FR:SDIS:EM_GRPT": "1",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CSP Osny"
-  }
-},
-{
-  "type": "way",
-  "id": 269281136,
-  "center": {
-    "lat": 48.9679845,
-    "lon": 2.4113675
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "operator:type": "public",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014"
-  }
-},
-{
-  "type": "way",
-  "id": 334807305,
-  "center": {
-    "lat": 49.0449682,
-    "lon": 2.2051839
-  },
-  "tags": {
-    "addr:city": "Bessancourt",
-    "addr:full": "Chemin des Marboulus 95550 Bessancourt",
-    "addr:postcode": "95550",
-    "addr:street": "Chemin des Marboulus",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et secours de Bessancourt",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 18 71 90",
-    "ref": "BES",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Bessancourt"
-  }
-},
-{
-  "type": "way",
-  "id": 346296404,
-  "center": {
-    "lat": 49.0018782,
-    "lon": 2.4063577
-  },
-  "tags": {
-    "addr:city": "Villiers-le-Bel",
-    "addr:housenumber": "45",
-    "addr:postcode": "95400",
-    "addr:street": "Avenue Pierre Semard",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Villiers-le-Bel",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 34 29 68 00",
-    "police:FR": "police",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
-    "wikidata": "Q61954657"
-  }
-},
-{
-  "type": "way",
-  "id": 346298496,
-  "center": {
-    "lat": 49.0061791,
-    "lon": 2.3902352
-  },
-  "tags": {
-    "addr:city": "Villiers-le-Bel",
-    "addr:housenumber": "4",
-    "addr:postcode": "95400",
-    "addr:street": "Rue du Pressoir",
-    "amenity": "police",
-    "building": "yes",
-    "building:levels": "1",
-    "building:owner": "public",
-    "name": "Police municipale",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015"
-  }
-},
-{
-  "type": "way",
-  "id": 365083392,
-  "center": {
-    "lat": 49.0427460,
-    "lon": 2.0885073
-  },
-  "tags": {
-    "addr:city": "Pontoise",
-    "addr:country": "FR",
-    "addr:postcode": "95300",
-    "addr:street": "Rue du Premier Dragon",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police municipale",
-    "opening_hours": "Mo-Fr 08:45-12:00,13:30-17:00",
-    "phone": "+33 1 30 73 80 33",
-    "police:FR": "police_municipale",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015"
-  }
-},
-{
-  "type": "way",
-  "id": 389951392,
-  "center": {
-    "lat": 49.1095968,
-    "lon": 2.2810580
-  },
-  "tags": {
-    "addr:city": "Presles",
-    "addr:full": "27 bis rue Pierre Brossolette 95590 Presles",
-    "addr:housenumber": "27",
-    "addr:postcode": "95590",
-    "addr:street": "Rue Pierre Brossolette",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CPI",
-    "name": "Centre d'incendie et de secours de Presles",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 28 71 50",
-    "ref": "PRE",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Presles"
-  }
-},
-{
-  "type": "way",
-  "id": 389951908,
-  "center": {
-    "lat": 49.1486319,
-    "lon": 2.2713279
-  },
-  "tags": {
-    "addr:city": "Persan",
-    "addr:full": "61 rue Pierre Brossolette 95340 Persan",
-    "addr:housenumber": "61",
-    "addr:postcode": "95340",
-    "addr:street": "Rue Pierre Brossolette",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Persan",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 37 41 30",
-    "ref": "PER",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Persan"
-  }
-},
-{
-  "type": "way",
-  "id": 390089418,
-  "center": {
-    "lat": 49.1408062,
-    "lon": 2.2758410
-  },
-  "tags": {
-    "addr:city": "Beaumont-sur-Oise",
-    "addr:full": "71 rue Saint-Roch 95260 Beaumont-sur-Oise",
-    "addr:postcode": "95260",
-    "addr:street": "Rue Saint-Roch",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Beaumont-sur-Oise",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 37 43 10",
-    "ref": "BMT",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Beaumont sur Oise"
-  }
-},
-{
-  "type": "way",
-  "id": 390091246,
-  "center": {
-    "lat": 49.0911241,
-    "lon": 2.5468341
-  },
-  "tags": {
-    "addr:city": "Survilliers",
-    "addr:full": "16 route de Saint-Witz 95470 Survilliers",
-    "addr:postcode": "95470",
-    "addr:street": "Route de St Witz",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Survilliers",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 31 90 00",
-    "ref": "SUR",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Survilliers"
-  }
-},
-{
-  "type": "way",
-  "id": 390097650,
-  "center": {
-    "lat": 48.9681337,
-    "lon": 2.3122080
-  },
-  "tags": {
-    "addr:city": "Enghien-les-Bains",
-    "addr:full": "5 rue Pasteur 95880 Enghien-les-Bains",
-    "addr:housenumber": "5",
-    "addr:postcode": "95880",
-    "addr:street": "Rue Pasteur",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours d'Enghien-les-Bains",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 28 43 90",
-    "ref": "ENG",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Enghien-les-Bains"
-  }
-},
-{
-  "type": "way",
-  "id": 390098457,
-  "center": {
-    "lat": 49.0651970,
-    "lon": 2.1817858
-  },
-  "tags": {
-    "addr:city": "Méry-sur-Oise",
-    "addr:full": "16 rue Courtil Bajou 95540 Méry-sur-Oise",
-    "addr:postcode": "95540",
-    "addr:street": "Rue Courtil Bajou",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Méry-sur-Oise",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 48 24 00",
-    "ref": "MER",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Méry-sur-Oise"
-  }
-},
-{
-  "type": "way",
-  "id": 390955743,
-  "center": {
-    "lat": 49.1302186,
-    "lon": 2.1663001
-  },
-  "tags": {
-    "addr:city": "Nesles-la-Vallée",
-    "addr:full": "1 allée René Florentin 95690 Nesles-la-Vallée",
-    "addr:housenumber": "1",
-    "addr:postcode": "95690",
-    "addr:street": "Allée René Florentin",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CPI",
-    "name": "Centre d'incendie et de secours de Nesles-la-Vallée",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 70 83 10",
-    "ref": "NES",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Nesles-la-Vallée"
-  }
-},
-{
-  "type": "way",
-  "id": 395712224,
-  "center": {
-    "lat": 49.1478915,
-    "lon": 2.2833205
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie de Persan",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-21:00; Su 09:00-12:00,15:00-21:00; PH 09:00-12:00,15:00-21:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 30 28 96 70",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003386",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "way",
-  "id": 401942268,
-  "center": {
-    "lat": 49.1418015,
-    "lon": 1.9900905
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Marines",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 30 39 70 27",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003397",
-    "source": "Service-Public.fr - 06/2013"
-  }
-},
-{
-  "type": "way",
-  "id": 407451539,
-  "center": {
-    "lat": 49.1509682,
-    "lon": 1.7874290
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "building:levels": "2",
-    "name": "Gendarmerie nationale",
-    "note": "Future gendarmerie en 2025 à côté de la caserne des pompiers",
-    "official_name": "Brigade de gendarmerie de Magny-en-Vexin",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 34 46 88 88",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003396",
-    "roof:levels": "1",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018"
-  }
-},
-{
-  "type": "way",
-  "id": 435919021,
-  "center": {
-    "lat": 49.0930346,
-    "lon": 2.0427151
-  },
-  "tags": {
-    "aeroway": "hangar",
-    "amenity": "fire_station",
-    "building": "fire_station",
-    "fire_station:type:FR": "SSLIA",
-    "name": "SSLIA",
-    "operator": "Groupe ADP",
-    "operator:wikidata": "Q794563",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016"
-  }
-},
-{
-  "type": "way",
-  "id": 443646382,
-  "center": {
-    "lat": 49.0787826,
-    "lon": 1.9218191
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "check_date": "2026-05-10",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Vigny",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 34 67 89 89",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003399",
-    "source": "Service-Public.fr - 06/2013"
-  }
-},
-{
-  "type": "way",
-  "id": 448546112,
-  "center": {
-    "lat": 49.0704823,
-    "lon": 1.7687397
-  },
-  "tags": {
-    "addr:city": "Aincourt",
-    "addr:full": "31 rue de la Chapelle Saint Sauveur 95510 Aincourt",
-    "addr:postcode": "95510",
-    "addr:street": "Rue de la Chapelle Saint Sauveur",
-    "amenity": "fire_station",
-    "building": "fire_station",
-    "fire_station:type:FR": "CPI",
-    "name": "Centre d'incendie et de secours d'Aincourt",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 76 74 39",
-    "ref": "AIN",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Aincourt",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016"
-  }
-},
-{
-  "type": "way",
-  "id": 498633976,
-  "center": {
-    "lat": 49.0024619,
-    "lon": 2.5095696
-  },
-  "tags": {
-    "addr:city": "Roissy-en-France",
-    "addr:housenumber": "3",
-    "addr:postcode": "95700",
-    "addr:street": "Chemin de la Vallée",
-    "amenity": "police",
-    "name": "Gendarmerie nationale",
-    "official_name": "Brigade de gendarmerie de Roissy-en-France",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 30 11 61 80",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "1003412",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
-    "website": "https://www.gendarmerie.interieur.gouv.fr/contact/trouver-ma-gendarmerie/brigade-de-roissy-en-france-val-d-oise-95"
-  }
-},
-{
-  "type": "way",
-  "id": 541969349,
-  "center": {
-    "lat": 48.9449321,
-    "lon": 2.2559698
-  },
-  "tags": {
-    "amenity": "police",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police d'Argenteuil",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 34 26 17 10",
-    "police:FR": "police",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015",
-    "wikidata": "Q61954639"
-  }
-},
-{
-  "type": "way",
-  "id": 622909098,
-  "center": {
-    "lat": 48.9910494,
-    "lon": 2.4452672
-  },
-  "tags": {
-    "addr:city": "Gonesse",
-    "addr:full": "1 rue du Commandant Fourneau 95500 Gonesse",
-    "addr:housenumber": "1",
-    "addr:postcode": "95500",
-    "addr:street": "Rue du Commandant Maurice Fourneau",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Gonesse",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 87 72 40",
-    "ref": "GON",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Gonesse"
-  }
-},
-{
-  "type": "way",
-  "id": 623172605,
-  "center": {
-    "lat": 48.9985989,
-    "lon": 2.2721739
-  },
-  "tags": {
-    "addr:city": "Eaubonne",
-    "addr:full": "35 rue du Docteur Roux 95600 Eaubonne",
-    "addr:housenumber": "37",
-    "addr:postcode": "95600",
-    "addr:street": "Rue du Docteur Roux",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CSP",
-    "name": "Centre de secours principal d'Eaubonne",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 27 70 60",
-    "ref": "EAU",
-    "ref:FR:SDIS:EM_GRPT": "2",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CSP Eaubonne"
-  }
-},
-{
-  "type": "way",
-  "id": 717052843,
-  "center": {
-    "lat": 49.0792606,
-    "lon": 1.9212759
-  },
-  "tags": {
-    "addr:full": "52 rue Beaudouin, 95450 Vigny",
-    "addr:housenumber": "52",
-    "addr:street": "Rue Beaudoin",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Vigny",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 48 61 00",
-    "ref": "VIG",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Vigny"
-  }
-},
-{
-  "type": "way",
-  "id": 732479587,
-  "center": {
-    "lat": 49.1067829,
-    "lon": 2.2233944
-  },
-  "tags": {
-    "addr:full": "13 rue de Meriel, 95290 L'Isle-Adam",
-    "addr:housenumber": "13",
-    "addr:street": "Rue de Mériel",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de L'Isle Adam",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 08 18 30",
-    "ref": "LIA",
-    "ref:FR:SDIS:GRPT": "1"
-  }
-},
-{
-  "type": "way",
-  "id": 884220780,
-  "center": {
-    "lat": 48.9953756,
-    "lon": 2.3449783
-  },
-  "tags": {
-    "addr:city": "Saint-Brice-sous-Forêt",
-    "addr:full": "37 avenue de la Division Leclerc 95350 Saint-Brice-sous-Forêt",
-    "addr:housenumber": "37",
-    "addr:postcode": "95350",
-    "addr:street": "Avenue Division Leclerc",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Montmorency",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 33 76 60",
-    "ref": "MON",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Montmorency - Saint-Brice-sous-Forêt",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014"
-  }
-},
-{
-  "type": "way",
-  "id": 916472499,
-  "center": {
-    "lat": 48.9738193,
-    "lon": 2.4048525
-  },
-  "tags": {
-    "addr:city": "Garges les Gonesse",
-    "addr:full": "Rue du 8 mai 1945 95140 Garges-lès-Gonesse",
-    "addr:postcode": "95140",
-    "addr:street": "Avenue du 8 Mai 1945",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Garges-lès-Gonesse",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 45 23 90",
-    "ref": "GLG",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Garges-lès-Gonesse",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014"
-  }
-},
-{
-  "type": "way",
-  "id": 916478079,
-  "center": {
-    "lat": 49.0011898,
-    "lon": 2.3863142
-  },
-  "tags": {
-    "addr:city": "Villiers-le-Bel",
-    "addr:full": "2 avenue des Érables 95400 Villiers-le-Bel",
-    "addr:housenumber": "2",
-    "addr:postcode": "95400",
-    "addr:street": "Avenue des Érables",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CSP",
-    "name": "Centre de secours principal de Villiers-le-Bel",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 33 75 60",
-    "ref": "VLB",
-    "ref:FR:SDIS:EM_GRPT": "3",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CSP Villiers-le-Bel"
-  }
-},
-{
-  "type": "way",
-  "id": 916478081,
-  "center": {
-    "lat": 48.9534532,
-    "lon": 2.2150168
-  },
-  "tags": {
-    "addr:city": "Argenteuil",
-    "addr:full": "2 boulevard des Martyrs de Châteaubriant 95100 Argenteuil",
-    "addr:housenumber": "1",
-    "addr:postcode": "95100",
-    "addr:street": "Boulevard des Martyrs de Chateaubriand",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CSP",
-    "name": "Centre de secours principal d'Argenteuil",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 11 77 80",
-    "ref": "ARG",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CSP Argenteuil",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 916490621,
-  "center": {
-    "lat": 49.0250226,
-    "lon": 2.3353098
-  },
-  "tags": {
-    "addr:city": "Domont",
-    "addr:full": "50 rue André Nouet 95330 Domont",
-    "addr:postcode": "95130",
-    "addr:street": "Rue André Nouet",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Domont",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 11 90 70",
-    "ref": "DOM",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CS Domont",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 916493337,
-  "center": {
-    "lat": 48.9907776,
-    "lon": 2.1975399
-  },
-  "tags": {
-    "addr:city": "Montigny-lès-Cormeilles",
-    "addr:full": "56 rue Jacques Verniol 95240 Montigny-lès-Cormeilles",
-    "addr:housenumber": "56",
-    "addr:postcode": "95370",
-    "addr:street": "Rue Jacques Verniol",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Cenre d'incendie et de secours de Montigny-lès-Cormeilles",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 26 34 80",
-    "ref": "MLC",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CS Montigny-lès-Cormeilles",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013"
-  }
-},
-{
-  "type": "way",
-  "id": 1128318506,
-  "center": {
-    "lat": 48.9693952,
-    "lon": 2.2054444
-  },
-  "tags": {
-    "addr:city": "Cormeilles en Parisis",
-    "addr:full": "50 rue de la République 95240 Cormeilles-en-Parisis",
-    "addr:housenumber": "50",
-    "addr:postcode": "95240",
-    "addr:street": "Rue de la République",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "landuse": "commercial",
-    "name": "Centre d'incendie et de secours de Cormeilles-en-Parisis",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 26 34 90",
-    "ref": "CEP",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Cormeilles-en-Parisis",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016"
-  }
-},
-{
-  "type": "way",
-  "id": 1376980193,
-  "center": {
-    "lat": 49.0017057,
-    "lon": 2.4071606
-  },
-  "tags": {
-    "addr:city": "Villiers-le-Bel",
-    "addr:housenumber": "51",
-    "addr:postcode": "95400",
-    "addr:street": "Avenue Pierre Semard",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Police Municipale"
-  }
-},
-{
-  "type": "way",
-  "id": 1383863233,
-  "center": {
-    "lat": 49.0977233,
-    "lon": 2.5324503
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "fixme": "Shape is approximative waiting for cadastre",
-    "name": "Gendarmerie nationale",
-    "official_name": "Gendarmerie - Brigade de Survilliers",
-    "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-19:00",
-    "operator": "Gendarmerie nationale",
-    "operator:wikidata": "Q1422336",
-    "phone": "+33 1 30 29 12 30",
-    "police:FR": "gendarmerie",
-    "ref:FR:GendarmerieNationale": "24000530",
-    "source": "data.gouv.fr:Ministère de l'Intérieur - 2026-02",
-    "website": "https://www.gendarmerie.interieur.gouv.fr/contact/trouver-ma-gendarmerie/brigade-de-survilliers-val-d-oise-95"
-  }
-},
-{
-  "type": "way",
-  "id": 1419090052,
-  "center": {
-    "lat": 48.9247749,
-    "lon": 2.2198740
-  },
-  "tags": {
-    "addr:full": "120 rue Jean Jaurès 95870 Bezons",
-    "addr:street": "Rue Jean Jaurès",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Bezons",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 96 54 90",
-    "ref": "BEZ",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Bezons"
-  }
-},
-{
-  "type": "way",
-  "id": 1446725158,
-  "center": {
-    "lat": 49.0251337,
-    "lon": 2.0993693
-  },
-  "tags": {
-    "addr:city": "Éragny-sur-Oise",
-    "addr:full": "Passage des Secours 95610 Eragny-sur-Oise",
-    "addr:housenumber": "5",
-    "addr:postcode": "95610",
-    "addr:street": "Passage des Secours",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours d'Éragny-sur-Oise",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 32 59 20",
-    "ref": "ERA",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Éragny-sur-Oise"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745678,
-  "center": {
-    "lat": 49.0047139,
-    "lon": 2.5087173
-  },
-  "tags": {
-    "addr:city": "Roissy en France",
-    "addr:full": "1 avenue du Montmorency 95700 Roissy-en-France",
-    "addr:housenumber": "1",
-    "addr:postcode": "95700",
-    "addr:street": "Avenue de Montmorency",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Roissy-en-France",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 18 20 90",
-    "ref": "ROI",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Roissy-en-France",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745680,
-  "center": {
-    "lat": 48.9643558,
-    "lon": 2.2757261
-  },
-  "tags": {
-    "addr:city": "Saint-Gratien",
-    "addr:full": "51 rue d'Orgemont 95210 Saint-Gratien",
-    "addr:housenumber": "51",
-    "addr:postcode": "95210",
-    "addr:street": "Rue d'Orgemont",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Saint-Gratien",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 34 95 40",
-    "ref": "GRA",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Saint-Gratien",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745682,
-  "center": {
-    "lat": 49.1337625,
-    "lon": 2.2314362
-  },
-  "tags": {
-    "addr:city": "Champagne-sur-Oise",
-    "addr:full": "67 bis rue Jules Picard 95660 Champagne-sur-Oise",
-    "addr:postcode": "95660",
-    "addr:street": "Rue Jules Picard",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CPI",
-    "name": "Centre d'incendie et de secours de Champagne-sur-Oise",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 34 47 70",
-    "ref": "CHA",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Champagne-sur-Oise"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745684,
-  "center": {
-    "lat": 48.9758829,
-    "lon": 2.2455180
-  },
-  "tags": {
-    "addr:full": "65 boulevard Gambetta 95110 Sannois",
-    "addr:housenumber": "65",
-    "addr:street": "Boulevard Gambetta",
-    "amenity": "fire_station",
-    "check_date": "2024-05-25",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Sannois",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 98 50 90",
-    "ref": "SAN",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Sannois",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745685,
-  "center": {
-    "lat": 49.0469384,
-    "lon": 2.5129782
-  },
-  "tags": {
-    "addr:city": "Louvres",
-    "addr:full": "1 route de la Grande aux Dîmes 95380 Louvres",
-    "addr:housenumber": "1",
-    "addr:postcode": "95380",
-    "addr:street": "Route de la Grange aux Dîmes",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Louvres",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 47 41 80",
-    "ref": "LOU",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Louvres",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745689,
-  "center": {
-    "lat": 49.0311143,
-    "lon": 2.4587173
-  },
-  "tags": {
-    "addr:city": "Goussainville",
-    "addr:full": "13 avenue Albert Sarraut 95190 Goussainville",
-    "addr:housenumber": "13",
-    "addr:postcode": "95190",
-    "addr:street": "Avenue Albert Sarraut",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Goussainville",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 38 80 30",
-    "ref": "GOU",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Goussainville",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745691,
-  "center": {
-    "lat": 48.9989571,
-    "lon": 2.2182730
-  },
-  "tags": {
-    "addr:city": "Franconville",
-    "addr:full": "57 avenue des Marais 95130 Franconville",
-    "addr:housenumber": "57",
-    "addr:postcode": "95130",
-    "addr:street": "Avenue des Marais",
-    "amenity": "fire_station",
-    "check_date": "2024-09-15",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Franconville",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 72 85 00",
-    "ref": "FRA",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Franconville",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745693,
-  "center": {
-    "lat": 49.0192687,
-    "lon": 2.2141148
-  },
-  "tags": {
-    "addr:city": "Taverny",
-    "addr:full": "1 rue Pierre de Coubertin 95150 Taverny",
-    "addr:postcode": "95150",
-    "addr:street": "Rue Pierre de Coubertin",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Taverny",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 18 36 70",
-    "ref": "TAV",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Taverny",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745696,
-  "center": {
-    "lat": 49.1393734,
-    "lon": 1.6642166
-  },
-  "tags": {
-    "addr:city": "Bray-et-Lû",
-    "addr:full": "11 rue de l'école 95710 Bray-et-Lu",
-    "addr:housenumber": "12",
-    "addr:postcode": "95710",
-    "addr:street": "Rue de l'École",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CPI",
-    "name": "Centre d'incendie et de secours de Bray-et-Lû",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 27 35 00",
-    "ref": "BEL",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Bray-et-Lû",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745699,
-  "center": {
-    "lat": 48.9993597,
-    "lon": 2.1559897
-  },
-  "tags": {
-    "addr:city": "Herblay",
-    "addr:full": "56 boulevard de Verdun 95220 Herblay-sur-Seine",
-    "addr:housenumber": "53",
-    "addr:postcode": "95220",
-    "addr:street": "Boulevard de Verdun",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours d'Herblay",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 39 31 30 70",
-    "ref": "HER",
-    "ref:FR:SDIS:GRPT": "2",
-    "short_name": "CIS Herblay",
-    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745702,
-  "center": {
-    "lat": 49.1461290,
-    "lon": 1.7886347
-  },
-  "tags": {
-    "addr:city": "Magny-en-Vexin",
-    "addr:full": "7 route de Mantes 95420 Magny-en-Vexin",
-    "addr:housenumber": "7",
-    "addr:postcode": "95420",
-    "addr:street": "Route de Mantes",
-    "amenity": "fire_station",
-    "check_date": "2025-05-02",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Magny-en-Vexin",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 46 89 60",
-    "ref": "MEV",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Magny-en-Vexin",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
-    "start_date": "before 2003-05-28"
-  }
-},
-{
-  "type": "way",
-  "id": 1446745703,
-  "center": {
-    "lat": 49.1258475,
-    "lon": 2.3717651
-  },
-  "tags": {
-    "addr:city": "Viarmes",
-    "addr:full": "24 Rue Kleinpeter 95270 Viarmes",
-    "addr:postcode": "95270",
-    "addr:street": "Rue Klienpeter",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Viarmes",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 30 35 41 13",
-    "ref": "VIA",
-    "ref:FR:SDIS:GRPT": "3",
-    "short_name": "CIS Viarmes",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
-  }
-},
-{
-  "type": "relation",
-  "id": 17783386,
-  "center": {
-    "lat": 49.0380120,
-    "lon": 2.0855420
-  },
-  "tags": {
-    "amenity": "police",
-    "building": "yes",
-    "building:levels": "3",
-    "check_date": "2024-04-13",
-    "name": "Police nationale",
-    "official_name": "Commissariat de police de Cergy",
-    "operator": "Police nationale",
-    "operator:wikidata": "Q121484",
-    "phone": "+33 1 34 43 17 17",
-    "police:FR": "police",
-    "type": "multipolygon",
-    "wikidata": "Q61954646"
-  }
-},
-{
-  "type": "relation",
-  "id": 20404327,
-  "center": {
-    "lat": 49.1462136,
-    "lon": 1.9745593
-  },
-  "tags": {
-    "addr:city": "Marines",
-    "addr:full": "19 boulevard Gambetta 95640 Marines",
-    "addr:housenumber": "19",
-    "addr:postcode": "95640",
-    "addr:street": "Boulevard Gambetta",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CS",
-    "name": "Centre d'incendie et de secours de Marines",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 67 56 00",
-    "ref": "MAR",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CIS Marines",
-    "type": "multipolygon"
-  }
-},
-{
-  "type": "relation",
-  "id": 20678995,
-  "center": {
-    "lat": 49.1215325,
-    "lon": 2.0062855
-  },
-  "tags": {
-    "addr:city": "Cormeilles-en-Vexin",
-    "addr:full": "4 route de Dieppe 95830 Cormeilles-en-Vexin",
-    "addr:housenumber": "4",
-    "addr:postcode": "95830",
-    "addr:street": "Route de Dieppe",
-    "amenity": "fire_station",
-    "fire_station:type:FR": "CPI",
-    "name": "Centre d'incendie et de secours de Cormeilles-en-Vexin",
-    "operator": "SDIS 95",
-    "operator:wikidata": "Q61455938",
-    "phone": "+33 1 34 66 25 50",
-    "ref": "CEV",
-    "ref:FR:SDIS:GRPT": "1",
-    "short_name": "CS Cormeilles-en-Vexin",
-    "type": "multipolygon"
-  }
-}
-
+    {
+      "type": "node",
+      "id": 244168924,
+      "lat": 49.0309028,
+      "lon": 2.4579776,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "1 Rue Montaigne 95190 Goussainville",
+        "ban_city": "Goussainville",
+        "ban_postcode": "95190",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 265113524,
+      "lat": 48.9288494,
+      "lon": 2.2144976,
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Bezons",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "fr:Police nationale (France)",
+        "phone": "+33 1 39 96 53 50",
+        "police:FR": "police",
+        "wikidata": "Q61954644",
+        "ban_label": "24 Avenue Gabriel Péri 95870 Bezons",
+        "ban_city": "Bezons",
+        "ban_postcode": "95870",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 562974222,
+      "lat": 49.0180171,
+      "lon": 2.1000581,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "operator:type": "public",
+        "police:FR": "police_municipale",
+        "ban_label": "1 Rue Salvador Allende 95610 Éragny-sur-Oise",
+        "ban_city": "Éragny-sur-Oise",
+        "ban_postcode": "95610",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614271602,
+      "lat": 48.9692175,
+      "lon": 2.307584,
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police d'Enghien Les Bains",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 34 05 25 55",
+        "police:FR": "police",
+        "wikidata": "Q61954640",
+        "ban_label": "20 Rue de Malleville 95880 Enghien-les-Bains",
+        "ban_city": "Enghien-les-Bains",
+        "ban_postcode": "95880",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614271608,
+      "lat": 48.9716086,
+      "lon": 2.3096788,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "11bis Place du Maréchal Foch 95880 Enghien-les-Bains",
+        "ban_city": "Enghien-les-Bains",
+        "ban_postcode": "95880",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 967271894,
+      "lat": 49.0667534,
+      "lon": 2.1818389,
+      "tags": {
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Méry-sur-Oise",
+        "opening_hours": "Mo-Sa 08:00-12:00,15:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale (France)",
+        "phone": "+33 1 30 36 06 00",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003398",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03",
+        "ban_label": "4 Avenue Marcel Perrin 95540 Méry-sur-Oise",
+        "ban_city": "Méry-sur-Oise",
+        "ban_postcode": "95540",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 992609858,
+      "lat": 48.9705623,
+      "lon": 2.4022265,
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Garges les Gonesse",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "fr:Police nationale (France)",
+        "phone": "+33 1 30 11 12 12",
+        "police:FR": "police",
+        "wikidata": "Q61954650",
+        "ban_label": "Rue Jean Goujon 95140 Garges-lès-Gonesse",
+        "ban_city": "Garges-lès-Gonesse",
+        "ban_postcode": "95140",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1524892628,
+      "lat": 49.0464793,
+      "lon": 2.1060284,
+      "tags": {
+        "amenity": "police",
+        "name": "Direction Départementale Polices Urbaines",
+        "short_name": "DDPU",
+        "ban_label": "26 Rue du General Leclerc 95310 Saint-Ouen-l'Aumône",
+        "ban_city": "Saint-Ouen-l'Aumône",
+        "ban_postcode": "95310",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1786714866,
+      "lat": 49.0483546,
+      "lon": 2.0340587,
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Commissariat subdivisionnaire de police de Cergy Saint-Christophe",
+        "operator": "Police nationale",
+        "operator:type": "public",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "en:National Police (France)",
+        "police:FR": "police",
+        "source": "local_knowledge",
+        "ban_label": "12 Rue de l'Abondance 95800 Cergy",
+        "ban_city": "Cergy",
+        "ban_postcode": "95800",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1936965155,
+      "lat": 48.9525176,
+      "lon": 2.2274313,
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Poste de Police du Val d'Argent Nord",
+        "operator": "Police nationale",
+        "operator:type": "public",
+        "operator:wikidata": "Q121484",
+        "police:FR": "police",
+        "ban_label": "3 Place de la Commune de Paris 95100 Argenteuil",
+        "ban_city": "Argenteuil",
+        "ban_postcode": "95100",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2306299362,
+      "lat": 49.0085098,
+      "lon": 2.1997045,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "source": "survey",
+        "ban_label": "125 Chaussee Jules Cesar 95250 Beauchamp",
+        "ban_city": "Beauchamp",
+        "ban_postcode": "95250",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2344096894,
+      "lat": 48.9959899,
+      "lon": 2.1995919,
+      "tags": {
+        "addr:city": "Montigny-lès-Cormeilles",
+        "addr:postcode": "95370",
+        "addr:street": "Avenue Aristide Maillol",
+        "amenity": "police",
+        "name": "Police municipale",
+        "phone": "+33 1 30 26 30 82",
+        "police:FR": "police_municipale",
+        "ban_label": "3 Avenue Aristide Maillol 95370 Montigny-lès-Cormeilles",
+        "ban_city": "Montigny-lès-Cormeilles",
+        "ban_postcode": "95370",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2584777623,
+      "lat": 49.1120241,
+      "lon": 2.2161084,
+      "tags": {
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de l'Isle-Adam",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-19:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "en:National Gendarmerie",
+        "phone": "+33 1 34 69 73 30",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003384",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03",
+        "ban_label": "30bis Grande Rue 95290 L'Isle-Adam",
+        "ban_city": "L'Isle-Adam",
+        "ban_postcode": "95290",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3088120565,
+      "lat": 49.0226242,
+      "lon": 2.384618,
+      "tags": {
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie d'Écouen",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 34 29 47 80",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003408",
+        "ban_label": "20 Chemin de l’Avenir 95440 Écouen",
+        "ban_city": "Écouen",
+        "ban_postcode": "95440",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3589857756,
+      "lat": 49.0186309,
+      "lon": 2.2445536,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "46 Rue du Général Leclerc 95320 Saint-Leu-la-Forêt",
+        "ban_city": "Saint-Leu-la-Forêt",
+        "ban_postcode": "95320",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4195908800,
+      "lat": 49.0240857,
+      "lon": 2.2271661,
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "en:National Police (France)",
+        "police:FR": "police",
+        "ban_label": "11ter Place de Vaucelles 95150 Taverny",
+        "ban_city": "Taverny",
+        "ban_postcode": "95150",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4499335089,
+      "lat": 48.9675647,
+      "lon": 2.2854529,
+      "tags": {
+        "addr:city": "Saint-Gratien",
+        "addr:housenumber": "3",
+        "addr:postcode": "95210",
+        "addr:street": "Allée Maurice Ravel",
+        "amenity": "police",
+        "mapillary": "970305573777757",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "survey:date": "2018-03-26",
+        "ban_label": "1 Allée Maurice Ravel 95210 Saint-Gratien",
+        "ban_city": "Saint-Gratien",
+        "ban_postcode": "95210",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4559016924,
+      "lat": 48.9860149,
+      "lon": 2.3137453,
+      "tags": {
+        "addr:city": "Montmorency",
+        "addr:housenumber": "6",
+        "addr:postcode": "95160",
+        "addr:street": "Rue de Valmy",
+        "amenity": "police",
+        "name": "Police nationale",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "police:FR": "police",
+        "ban_label": "6 Rue de Valmy 95160 Montmorency",
+        "ban_city": "Montmorency",
+        "ban_postcode": "95160",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4559016950,
+      "lat": 48.9911433,
+      "lon": 2.3171388,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "1 Rue de Bellevue 95160 Montmorency",
+        "ban_city": "Montmorency",
+        "ban_postcode": "95160",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4640547708,
+      "lat": 49.0678426,
+      "lon": 2.3186631,
+      "tags": {
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie de Montsoult",
+        "opening_hours": "Mo-Sa 08:00-12:00,15:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 34 73 53 10",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003385",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "1 Rue des Clottins 95560 Montsoult",
+        "ban_city": "Montsoult",
+        "ban_postcode": "95560",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4798174584,
+      "lat": 49.0209524,
+      "lon": 2.0209023,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2024-06-23",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Jouy-le-Moutier",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 30 27 20 60",
+        "police:FR": "police",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "wikidata": "Q61954653",
+        "ban_label": "23 Rue des Valanchards 95280 Jouy-le-Moutier",
+        "ban_city": "Jouy-le-Moutier",
+        "ban_postcode": "95280",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5204638300,
+      "lat": 49.0659594,
+      "lon": 2.062282,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5368250183,
+      "lat": 49.0372138,
+      "lon": 2.0864367,
+      "tags": {
+        "amenity": "police",
+        "fax": "+33 1 30 75 56 02",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Pontoise",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 30 75 56 02",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003394",
+        "source": "Annuaire de l'administration - 03/2017",
+        "ban_label": "Boulevard de l’Hautil 95000 Pontoise",
+        "ban_city": "Pontoise",
+        "ban_postcode": "95000",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469180916,
+      "lat": 49.0019695,
+      "lon": 2.4214825,
+      "tags": {
+        "addr:housenumber": "7",
+        "amenity": "police",
+        "mapillary": "142770371196084",
+        "name": "Police municipale",
+        "phone": "+33 1 34 53 89 89",
+        "police:FR": "police_municipale",
+        "survey:date": "2018-03-10",
+        "ban_label": "3 Square du Nord 95500 Gonesse",
+        "ban_city": "Gonesse",
+        "ban_postcode": "95500",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5764393937,
+      "lat": 49.1260232,
+      "lon": 2.3692536,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "source": "survey",
+        "ban_label": "8 Place Pierre Salvi 95270 Viarmes",
+        "ban_city": "Viarmes",
+        "ban_postcode": "95270",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6060852050,
+      "lat": 49.1386663,
+      "lon": 2.3739877,
+      "tags": {
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "note": "Cadastre à importer quand disponible",
+        "official_name": "Gendarmerie - Brigade d'Asnières-sur-Oise",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 34 31 20 80",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003388",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03",
+        "ban_label": "4 Avenue des Chesnays 95270 Asnières-sur-Oise",
+        "ban_city": "Asnières-sur-Oise",
+        "ban_postcode": "95270",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6093271833,
+      "lat": 48.9903217,
+      "lon": 2.327471,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "95160",
+        "addr:street": "Rue des Gallérands",
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Montmorency",
+        "opening_hours": "Mo-Sa 08:00-12:00; PH 09:00-12:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 39 64 14 32",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003407",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03",
+        "ban_label": "2 Rue des Gallerands 95160 Montmorency",
+        "ban_city": "Montmorency",
+        "ban_postcode": "95160",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6132729441,
+      "lat": 48.9565702,
+      "lon": 2.1964313,
+      "tags": {
+        "addr:city": "Cormeilles-en-Parisis",
+        "addr:postcode": "95240",
+        "addr:street": "Rue des Frères Lumière",
+        "amenity": "police",
+        "name": "Police nationale",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "fr:Police nationale (France)",
+        "police:FR": "police",
+        "ban_label": "18 Avenue des Frères Lumière 95240 Cormeilles-en-Parisis",
+        "ban_city": "Cormeilles-en-Parisis",
+        "ban_postcode": "95240",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6132732724,
+      "lat": 49.0323584,
+      "lon": 2.4728361,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "opening_hours": "Mo-Th 08:30-12:00,13:00-18:00; Fr 08:30-12:00,13:00-17:30; Sa 08:30-12:00",
+        "phone": "+33 1 39 94 60 99",
+        "police:FR": "police_municipale",
+        "ban_label": "84 Bd Paul Vaillant Couturier 95190 Goussainville",
+        "ban_city": "Goussainville",
+        "ban_postcode": "95190",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6165420211,
+      "lat": 49.0509384,
+      "lon": 2.205997,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "Place de la Mairie 95740 Frépillon",
+        "ban_city": "Frépillon",
+        "ban_postcode": "95740",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194882341,
+      "lat": 49.0002884,
+      "lon": 2.2256595,
+      "tags": {
+        "addr:housenumber": "156",
+        "addr:street": "Chaussée Jules César",
+        "amenity": "police",
+        "check_date": "2025-07-22",
+        "name": "Police municipale",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:30-17:30; Sa 08:00-12:00",
+        "phone": "+33 1 30 72 02 56",
+        "police:FR": "police_municipale",
+        "ban_label": "156 Chaussée Jules César 95130 Le Plessis-Bouchard",
+        "ban_city": "Le Plessis-Bouchard",
+        "ban_postcode": "95130",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6241770111,
+      "lat": 48.989885,
+      "lon": 2.2612839,
+      "tags": {
+        "addr:city": "Ermont",
+        "addr:housenumber": "27",
+        "addr:street": "Rue de la Halte",
+        "amenity": "police",
+        "name": "Police Municipale",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:00; We 08:00-12:00,13:30-16:00; Th,Sa 08:00-12:00",
+        "phone": "+33 1 30 72 31 52",
+        "police:FR": "police_municipale",
+        "source": "survey",
+        "ban_label": "29 Rue de la Halte 95120 Ermont",
+        "ban_city": "Ermont",
+        "ban_postcode": "95120",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7658556412,
+      "lat": 49.0448977,
+      "lon": 2.3200412,
+      "tags": {
+        "addr:city": "Bouffémont",
+        "addr:postcode": "95570",
+        "addr:street": "Rue Ferdinand de Lesseps",
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "1 Allée de la Gare 95570 Bouffémont",
+        "ban_city": "Bouffémont",
+        "ban_postcode": "95570",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9051101249,
+      "lat": 48.9920796,
+      "lon": 2.1659807,
+      "tags": {
+        "amenity": "police",
+        "ban_label": "20 Place de la Halle 95220 Herblay-sur-Seine",
+        "ban_city": "Herblay-sur-Seine",
+        "ban_postcode": "95220",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9448251085,
+      "lat": 49.0414883,
+      "lon": 2.3375921,
+      "tags": {
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie de Domont",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 39 35 58 50",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003409",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "12 Rue Parmentier 95330 Domont",
+        "ban_city": "Domont",
+        "ban_postcode": "95330",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9563219399,
+      "lat": 48.9723401,
+      "lon": 2.3223966,
+      "tags": {
+        "addr:city": "Deuil-la-Barre",
+        "addr:housenumber": "2",
+        "addr:postcode": "95170",
+        "addr:street": "Rue Eugène Lamarre",
+        "amenity": "police",
+        "name": "Police Nationale et Municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "6 Rue Eugène Lamarre 95170 Deuil-la-Barre",
+        "ban_city": "Deuil-la-Barre",
+        "ban_postcode": "95170",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9872029498,
+      "lat": 49.1431178,
+      "lon": 2.286761,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "9 Rue Albert 1er 95260 Beaumont-sur-Oise",
+        "ban_city": "Beaumont-sur-Oise",
+        "ban_postcode": "95260",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10001320690,
+      "lat": 49.0371853,
+      "lon": 2.2119574,
+      "tags": {
+        "addr:city": "Bessancourt",
+        "addr:housenumber": "1",
+        "addr:postcode": "95550",
+        "addr:street": "Avenue de la République",
+        "amenity": "police",
+        "contact:phone": "+33 1 30 40 44 22",
+        "name": "Police Municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "1ter Avenue de la République 95550 Bessancourt",
+        "ban_city": "Bessancourt",
+        "ban_postcode": "95550",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10096344934,
+      "lat": 49.07546,
+      "lon": 2.202512,
+      "tags": {
+        "amenity": "police",
+        "name": "Police Municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "7 Place Léchauguette 95630 Mériel",
+        "ban_city": "Mériel",
+        "ban_postcode": "95630",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11545733182,
+      "lat": 48.968356,
+      "lon": 2.1928705,
+      "tags": {
+        "addr:city": "Cormeilles-en-Parisis",
+        "addr:housenumber": "6",
+        "addr:place": "Place de la Brigadière Clarissa Jean-Philippe",
+        "addr:postcode": "95240",
+        "amenity": "police",
+        "check_date": "2026-02-16",
+        "name": "Police municipale",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:15-17:30",
+        "phone": "+33 1 34 50 47 22",
+        "police:FR": "police_municipale",
+        "start_date": "2023-05-13",
+        "ban_label": "Place Brigadiere C Jean Philippe 95240 Cormeilles-en-Parisis",
+        "ban_city": "Cormeilles-en-Parisis",
+        "ban_postcode": "95240",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11869823932,
+      "lat": 49.0033547,
+      "lon": 2.3542697,
+      "tags": {
+        "addr:city": "Saint-Brice-sous-Forêt",
+        "addr:housenumber": "97",
+        "addr:postcode": "95350",
+        "addr:street": "Rue de Paris",
+        "amenity": "police",
+        "name": "Police municipal",
+        "ban_label": "96 Rue de Paris 95350 Saint-Brice-sous-Forêt",
+        "ban_city": "Saint-Brice-sous-Forêt",
+        "ban_postcode": "95350",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12251266364,
+      "lat": 49.0090993,
+      "lon": 2.2842928,
+      "tags": {
+        "amenity": "police",
+        "ban_label": "8bis Rue des Écoles 95680 Montlignon",
+        "ban_city": "Montlignon",
+        "ban_postcode": "95680",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12550880314,
+      "lat": 49.0081208,
+      "lon": 2.2427092,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale de Saint-Leu la Forêt",
+        "police:FR": "police_municipale",
+        "ban_label": "15 Avenue Jean Rostand 95320 Saint-Leu-la-Forêt",
+        "ban_city": "Saint-Leu-la-Forêt",
+        "ban_postcode": "95320",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13478943340,
+      "lat": 49.0318764,
+      "lon": 2.3625332,
+      "tags": {
+        "amenity": "police",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "ban_label": "6 Rue Anglade 95460 Ézanville",
+        "ban_city": "Ézanville",
+        "ban_postcode": "95460",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13646556501,
+      "lat": 49.0005224,
+      "lon": 2.1451395,
+      "tags": {
+        "addr:housenumber": "220",
+        "addr:postcode": "95220",
+        "addr:street": "Route de Conflans",
+        "amenity": "police",
+        "check_date": "2026-03-14",
+        "check_date:opening_hours": "2026-03-14",
+        "email": "policemunicipale@herblay.fr",
+        "name": "Police Municipale",
+        "opening_hours": "Mo-Su 07:00-03:00",
+        "phone": "+33 1 30 40 48 00",
+        "website": "https://www.herblaysurseine.fr/service/police-municipale/",
+        "ban_label": "3 Chemin de l’Émissaire 95220 Herblay-sur-Seine",
+        "ban_city": "Herblay-sur-Seine",
+        "ban_postcode": "95220",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27755025,
+      "center": {
+        "lat": 49.0300699,
+        "lon": 1.9931965
+      },
+      "tags": {
+        "addr:city": "Courdimanche",
+        "addr:full": "Rue de la côte des Auges 95800 Courdimanche",
+        "addr:postcode": "95800",
+        "addr:street": "Rue de la Côte des Auges",
+        "amenity": "fire_station",
+        "check_date": "2025-05-01",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Courdimanche",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 46 30 10",
+        "ref": "COU",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Courdimanche",
+        "ban_label": "1 Rue de la Cote des Auges 95180 Menucourt",
+        "ban_city": "Menucourt",
+        "ban_postcode": "95180",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41526379,
+      "center": {
+        "lat": 49.0582703,
+        "lon": 2.0912622
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade motorisée de Pontoise",
+        "opening_hours": "Tu 08:00-12:00; Fr 08:00-12:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 30 30 75 10",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003376",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "88 Rue de Gisors 95300 Pontoise",
+        "ban_city": "Pontoise",
+        "ban_postcode": "95300",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 68998899,
+      "center": {
+        "lat": 48.9713792,
+        "lon": 2.2591098
+      },
+      "tags": {
+        "addr:housenumber": "44",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Police nationale et municipale",
+        "police:FR": "police_municipale; police",
+        "roof:shape": "gabled",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "ban_label": "44 Boulevard Charles de Gaulle 95110 Sannois",
+        "ban_city": "Sannois",
+        "ban_postcode": "95110",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 70336944,
+      "center": {
+        "lat": 48.9466126,
+        "lon": 2.2544411
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "loc_name": "Espace Municipal de Sécurité",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "ban_label": "2ter Rue Paul Vaillant Couturier 95100 Argenteuil",
+        "ban_city": "Argenteuil",
+        "ban_postcode": "95100",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 75929049,
+      "center": {
+        "lat": 48.984911,
+        "lon": 2.2277293
+      },
+      "tags": {
+        "addr:city": "Franconville",
+        "addr:housenumber": "10",
+        "addr:postcode": "95130",
+        "addr:street": "Boulevard Maurice Berteaux",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2024-10-24",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Franconville",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 30 72 61 50",
+        "police:FR": "police",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:amenity": "survey",
+        "wikidata": "Q61954649",
+        "ban_label": "10 Boulevard Maurice Berteaux 95130 Franconville",
+        "ban_city": "Franconville",
+        "ban_postcode": "95130",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 75931617,
+      "center": {
+        "lat": 48.9844789,
+        "lon": 2.2357153
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "official_name": "Police intercommunale",
+        "operator:type": "public",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "ban_label": "1 Rue du Saut du Loup 95130 Franconville",
+        "ban_city": "Franconville",
+        "ban_postcode": "95130",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 77473406,
+      "center": {
+        "lat": 48.9929953,
+        "lon": 2.2745273
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "official_name": "Police Municipale Intercommunale",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:amenity": "survey",
+        "ban_label": "7 Avenue de Budenheim 95600 Eaubonne",
+        "ban_city": "Eaubonne",
+        "ban_postcode": "95600",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85313806,
+      "center": {
+        "lat": 48.9894566,
+        "lon": 2.164891
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police d'Herblay",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 30 26 35 50",
+        "police:FR": "police",
+        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+        "wikidata": "Q61954642",
+        "ban_label": "3 Boulevard du 11 Novembre 1918 95220 Herblay-sur-Seine",
+        "ban_city": "Herblay-sur-Seine",
+        "ban_postcode": "95220",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85315060,
+      "center": {
+        "lat": 48.9907186,
+        "lon": 2.1642279
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+        "ban_label": "10 Rue Jean Bordenave 95220 Herblay-sur-Seine",
+        "ban_city": "Herblay-sur-Seine",
+        "ban_postcode": "95220",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 99307155,
+      "center": {
+        "lat": 49.0207865,
+        "lon": 2.0545445
+      },
+      "tags": {
+        "addr:city": "Neuville-sur-Oise",
+        "addr:full": "33 rue des Moulines 95000 Neuville-sur-Oise",
+        "addr:housenumber": "33",
+        "addr:postcode": "95000",
+        "addr:street": "Rue des Moulines",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Neuville-sur-Oise",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 75 63 90",
+        "ref": "NEU",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CS Neuville-sur-Oise",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "ban_label": "36 Rue des Moulines 95000 Neuville-sur-Oise",
+        "ban_city": "Neuville-sur-Oise",
+        "ban_postcode": "95000",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100336797,
+      "center": {
+        "lat": 48.98901,
+        "lon": 2.248642
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2025-02-22",
+        "layer": "1",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police d'Ermont",
+        "opening_hours": "24/7",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "en:National Police (France)",
+        "phone": "+33 1 30 72 66 66",
+        "police:FR": "police",
+        "roof:colour": "#65555F",
+        "roof:shape": "flat",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:amenity": "survey",
+        "wikidata": "Q61954641",
+        "ban_label": "201 Rue Jean Richepin 95120 Ermont",
+        "ban_city": "Ermont",
+        "ban_postcode": "95120",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100634296,
+      "center": {
+        "lat": 49.0135255,
+        "lon": 2.043907
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2026-08-01",
+        "name": "Police municipale",
+        "opening_hours": "Mo-Fr 09:30-12:00,13:30-18:00",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "2 Allee du Martel 95280 Jouy-le-Moutier",
+        "ban_city": "Jouy-le-Moutier",
+        "ban_postcode": "95280",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 101166992,
+      "center": {
+        "lat": 49.059974,
+        "lon": 2.0626795
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police nationale",
+        "official_name": "Commissariat subdivisionnaire de police d'Osny",
+        "operator": "Police nationale",
+        "police:FR": "police",
+        "source": "Service-Public.fr - 10/2016;Cadastre. Mise à jour : 2011;survey",
+        "ban_label": "Place Jean Jaures 95520 Osny",
+        "ban_city": "Osny",
+        "ban_postcode": "95520",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 103720696,
+      "center": {
+        "lat": 49.0123705,
+        "lon": 2.20733
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "operator": "Ville de Taverny",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "2 Rue des Charmilles 95150 Taverny",
+        "ban_city": "Taverny",
+        "ban_postcode": "95150",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104936289,
+      "center": {
+        "lat": 49.015493,
+        "lon": 2.5278195
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "fire_station:type:FR": "SSLIA",
+        "name": "SSLIA Nord Paris-CDG",
+        "operator": "Groupe ADP",
+        "operator:type": "private",
+        "operator:wikidata": "Q794563",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "4272 Aeroport Charles de Gaulle 95700 Roissy-en-France",
+        "ban_city": "Roissy-en-France",
+        "ban_postcode": "95700",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105034866,
+      "center": {
+        "lat": 48.9846755,
+        "lon": 2.448478
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Gonesse",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 34 45 19 00",
+        "police:FR": "police",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source_1": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "wikidata": "Q61954651",
+        "ban_label": "4 Rue Henri Dunant 95500 Gonesse",
+        "ban_city": "Gonesse",
+        "ban_postcode": "95500",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131771927,
+      "center": {
+        "lat": 49.046231,
+        "lon": 2.513176
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "public",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie de Louvres",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-19:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 30 29 39 70",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003411",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "2 Route de la Grange aux Dîmes 95380 Louvres",
+        "ban_city": "Louvres",
+        "ban_postcode": "95380",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131795318,
+      "center": {
+        "lat": 49.005156,
+        "lon": 2.3001195
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police nationale",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "operator:wikipedia": "en:National Police (France)",
+        "police:FR": "police",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "2 Rue René Cassin 95580 Andilly",
+        "ban_city": "Andilly",
+        "ban_postcode": "95580",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131925684,
+      "center": {
+        "lat": 49.0988427,
+        "lon": 2.513134
+      },
+      "tags": {
+        "addr:city": "Fosses",
+        "addr:housenumber": "41",
+        "addr:postcode": "95470",
+        "addr:street": "Avenue de la Haute Grève",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie de Fosses",
+        "official_name": "Brigade de gendarmerie de Fosses",
+        "opening_hours": "Mo-Su off",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 34 72 10 20",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003410",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "14 Avenue de la Haute Gréve 95470 Fosses",
+        "ban_city": "Fosses",
+        "ban_postcode": "95470",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143327568,
+      "center": {
+        "lat": 49.047285,
+        "lon": 2.0969229
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police nationale",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "police:FR": "police",
+        "ref": "Commissariat subdivisionnaire de police de Pontoise",
+        "source": "Service-Public.fr - 06/2013",
+        "ban_label": "11 Rue Sérè-depoin 95300 Pontoise",
+        "ban_city": "Pontoise",
+        "ban_postcode": "95300",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147091979,
+      "center": {
+        "lat": 49.0235845,
+        "lon": 2.1573749
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "ban_label": "24 Rue de Bessancourt 95480 Pierrelaye",
+        "ban_city": "Pierrelaye",
+        "ban_postcode": "95480",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147418082,
+      "center": {
+        "lat": 49.1098839,
+        "lon": 2.4224375
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Luzarches",
+        "opening_hours": "Mo 08:00-12:00,14:00-19:00; Tu 14:00-19:00; We 08:00-12:00,14:00-19:00; Th 14:00-19:00; Fr 08:00-12:00,14:00-19:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 34 71 00 36",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003389",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 2021-03",
+        "ban_label": "37 Rue Charles de Gaulle 95270 Luzarches",
+        "ban_city": "Luzarches",
+        "ban_postcode": "95270",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147524313,
+      "center": {
+        "lat": 49.0755919,
+        "lon": 2.1615231
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie d'Auvers-sur-Oise",
+        "opening_hours": "Mo-Sa 08:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "operator:wikipedia": "fr:Gendarmerie nationale française",
+        "phone": "+33 1 30 36 70 17",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003395",
+        "ban_label": "31c Rue François Mitterrand 95430 Auvers-sur-Oise",
+        "ban_city": "Auvers-sur-Oise",
+        "ban_postcode": "95430",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147847420,
+      "center": {
+        "lat": 49.0019276,
+        "lon": 2.4725189
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police Municipale",
+        "police": "FR=police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "ban_label": "1 Place du 8 Mai 1945 95500 Le Thillay",
+        "ban_city": "Le Thillay",
+        "ban_postcode": "95500",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147852424,
+      "center": {
+        "lat": 48.9632277,
+        "lon": 2.443058
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "fire_station:type:FR": "SSLIA",
+        "name": "SSLIA LBG",
+        "operator": "Groupe ADP",
+        "operator:type": "private",
+        "operator:wikidata": "Q794563",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147852458,
+      "center": {
+        "lat": 48.9584835,
+        "lon": 2.4456973
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie des transports aériens",
+        "operator": "Police nationale",
+        "police:FR": "police",
+        "short_name": "GTA",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "ban_label": "363 Aeroport du Bourget 95500 Bonneuil-en-France",
+        "ban_city": "Bonneuil-en-France",
+        "ban_postcode": "95500",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 171824956,
+      "center": {
+        "lat": 48.9774357,
+        "lon": 2.3701776
+      },
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Sarcelles",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 34 38 37 37",
+        "police:FR": "police",
+        "wikidata": "Q61954654",
+        "ban_label": "35 Avenue du 8 Mai 1945 95200 Sarcelles",
+        "ban_city": "Sarcelles",
+        "ban_postcode": "95200",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252744215,
+      "center": {
+        "lat": 49.0558828,
+        "lon": 2.0664954
+      },
+      "tags": {
+        "addr:city": "Osny",
+        "addr:full": "10 rue du Général de Gaulle 95520 Osny",
+        "addr:housename": "Centre de secours",
+        "addr:housenumber": "10",
+        "addr:postcode": "95520",
+        "addr:street": "Rue du Général de Gaulle",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CSP",
+        "name": "Centre de secours principal d'Osny",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 17 71 60",
+        "ref": "OSN",
+        "ref:FR:SDIS:EM_GRPT": "1",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CSP Osny",
+        "ban_label": "28 Rue des Beaux Soleils 95520 Osny",
+        "ban_city": "Osny",
+        "ban_postcode": "95520",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269281136,
+      "center": {
+        "lat": 48.9679845,
+        "lon": 2.4113675
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "operator:type": "public",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "ban_label": "154 Avenue de Stalingrad 95140 Garges-lès-Gonesse",
+        "ban_city": "Garges-lès-Gonesse",
+        "ban_postcode": "95140",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 334807305,
+      "center": {
+        "lat": 49.0449682,
+        "lon": 2.2051839
+      },
+      "tags": {
+        "addr:city": "Bessancourt",
+        "addr:full": "Chemin des Marboulus 95550 Bessancourt",
+        "addr:postcode": "95550",
+        "addr:street": "Chemin des Marboulus",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et secours de Bessancourt",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 18 71 90",
+        "ref": "BES",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Bessancourt",
+        "ban_label": "138 Avenue de la République 95550 Bessancourt",
+        "ban_city": "Bessancourt",
+        "ban_postcode": "95550",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346296404,
+      "center": {
+        "lat": 49.0018782,
+        "lon": 2.4063577
+      },
+      "tags": {
+        "addr:city": "Villiers-le-Bel",
+        "addr:housenumber": "45",
+        "addr:postcode": "95400",
+        "addr:street": "Avenue Pierre Semard",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Villiers-le-Bel",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 34 29 68 00",
+        "police:FR": "police",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "wikidata": "Q61954657",
+        "ban_label": "45 Avenue Pierre Sémard 95400 Villiers-le-Bel",
+        "ban_city": "Villiers-le-Bel",
+        "ban_postcode": "95400",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346298496,
+      "center": {
+        "lat": 49.0061791,
+        "lon": 2.3902352
+      },
+      "tags": {
+        "addr:city": "Villiers-le-Bel",
+        "addr:housenumber": "4",
+        "addr:postcode": "95400",
+        "addr:street": "Rue du Pressoir",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "1",
+        "building:owner": "public",
+        "name": "Police municipale",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "ban_label": "4 Rue du Pressoir 95400 Villiers-le-Bel",
+        "ban_city": "Villiers-le-Bel",
+        "ban_postcode": "95400",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365083392,
+      "center": {
+        "lat": 49.042746,
+        "lon": 2.0885073
+      },
+      "tags": {
+        "addr:city": "Pontoise",
+        "addr:country": "FR",
+        "addr:postcode": "95300",
+        "addr:street": "Rue du Premier Dragon",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police municipale",
+        "opening_hours": "Mo-Fr 08:45-12:00,13:30-17:00",
+        "phone": "+33 1 30 73 80 33",
+        "police:FR": "police_municipale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "ban_label": "Rue du 1er Dragon 95300 Pontoise",
+        "ban_city": "Pontoise",
+        "ban_postcode": "95300",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389951392,
+      "center": {
+        "lat": 49.1095968,
+        "lon": 2.281058
+      },
+      "tags": {
+        "addr:city": "Presles",
+        "addr:full": "27 bis rue Pierre Brossolette 95590 Presles",
+        "addr:housenumber": "27",
+        "addr:postcode": "95590",
+        "addr:street": "Rue Pierre Brossolette",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CPI",
+        "name": "Centre d'incendie et de secours de Presles",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 28 71 50",
+        "ref": "PRE",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Presles",
+        "ban_label": "29 Rue Pierre Brossolette 95590 Presles",
+        "ban_city": "Presles",
+        "ban_postcode": "95590",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389951908,
+      "center": {
+        "lat": 49.1486319,
+        "lon": 2.2713279
+      },
+      "tags": {
+        "addr:city": "Persan",
+        "addr:full": "61 rue Pierre Brossolette 95340 Persan",
+        "addr:housenumber": "61",
+        "addr:postcode": "95340",
+        "addr:street": "Rue Pierre Brossolette",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Persan",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 37 41 30",
+        "ref": "PER",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Persan",
+        "ban_label": "63 Rue Pierre Brossolette 95340 Persan",
+        "ban_city": "Persan",
+        "ban_postcode": "95340",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390089418,
+      "center": {
+        "lat": 49.1408062,
+        "lon": 2.275841
+      },
+      "tags": {
+        "addr:city": "Beaumont-sur-Oise",
+        "addr:full": "71 rue Saint-Roch 95260 Beaumont-sur-Oise",
+        "addr:postcode": "95260",
+        "addr:street": "Rue Saint-Roch",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Beaumont-sur-Oise",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 37 43 10",
+        "ref": "BMT",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Beaumont sur Oise",
+        "ban_label": "71 Rue Saint-roch 95260 Beaumont-sur-Oise",
+        "ban_city": "Beaumont-sur-Oise",
+        "ban_postcode": "95260",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390091246,
+      "center": {
+        "lat": 49.0911241,
+        "lon": 2.5468341
+      },
+      "tags": {
+        "addr:city": "Survilliers",
+        "addr:full": "16 route de Saint-Witz 95470 Survilliers",
+        "addr:postcode": "95470",
+        "addr:street": "Route de St Witz",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Survilliers",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 31 90 00",
+        "ref": "SUR",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Survilliers",
+        "ban_label": "65 Rue Grande Rue 95470 Saint-Witz",
+        "ban_city": "Saint-Witz",
+        "ban_postcode": "95470",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390097650,
+      "center": {
+        "lat": 48.9681337,
+        "lon": 2.312208
+      },
+      "tags": {
+        "addr:city": "Enghien-les-Bains",
+        "addr:full": "5 rue Pasteur 95880 Enghien-les-Bains",
+        "addr:housenumber": "5",
+        "addr:postcode": "95880",
+        "addr:street": "Rue Pasteur",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours d'Enghien-les-Bains",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 28 43 90",
+        "ref": "ENG",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Enghien-les-Bains",
+        "ban_label": "7 Rue Pasteur 95880 Enghien-les-Bains",
+        "ban_city": "Enghien-les-Bains",
+        "ban_postcode": "95880",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390098457,
+      "center": {
+        "lat": 49.065197,
+        "lon": 2.1817858
+      },
+      "tags": {
+        "addr:city": "Méry-sur-Oise",
+        "addr:full": "16 rue Courtil Bajou 95540 Méry-sur-Oise",
+        "addr:postcode": "95540",
+        "addr:street": "Rue Courtil Bajou",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Méry-sur-Oise",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 48 24 00",
+        "ref": "MER",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Méry-sur-Oise",
+        "ban_label": "21 Rue Courtil Bajou 95540 Méry-sur-Oise",
+        "ban_city": "Méry-sur-Oise",
+        "ban_postcode": "95540",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390955743,
+      "center": {
+        "lat": 49.1302186,
+        "lon": 2.1663001
+      },
+      "tags": {
+        "addr:city": "Nesles-la-Vallée",
+        "addr:full": "1 allée René Florentin 95690 Nesles-la-Vallée",
+        "addr:housenumber": "1",
+        "addr:postcode": "95690",
+        "addr:street": "Allée René Florentin",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CPI",
+        "name": "Centre d'incendie et de secours de Nesles-la-Vallée",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 70 83 10",
+        "ref": "NES",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Nesles-la-Vallée",
+        "ban_label": "2 Allée René Florentin 95690 Nesles-la-Vallée",
+        "ban_city": "Nesles-la-Vallée",
+        "ban_postcode": "95690",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 395712224,
+      "center": {
+        "lat": 49.1478915,
+        "lon": 2.2833205
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie de Persan",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-21:00; Su 09:00-12:00,15:00-21:00; PH 09:00-12:00,15:00-21:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 30 28 96 70",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003386",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "32c Avenue Jean Jaures 95340 Persan",
+        "ban_city": "Persan",
+        "ban_postcode": "95340",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 401942268,
+      "center": {
+        "lat": 49.1418015,
+        "lon": 1.9900905
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Marines",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 30 39 70 27",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003397",
+        "source": "Service-Public.fr - 06/2013",
+        "ban_label": "5 Chemin du Pont 95640 Marines",
+        "ban_city": "Marines",
+        "ban_postcode": "95640",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 407451539,
+      "center": {
+        "lat": 49.1509682,
+        "lon": 1.787429
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Gendarmerie nationale",
+        "note": "Future gendarmerie en 2025 à côté de la caserne des pompiers",
+        "official_name": "Brigade de gendarmerie de Magny-en-Vexin",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 34 46 88 88",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003396",
+        "roof:levels": "1",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "ban_label": "26 Rue de Crosne 95420 Magny-en-Vexin",
+        "ban_city": "Magny-en-Vexin",
+        "ban_postcode": "95420",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435919021,
+      "center": {
+        "lat": 49.0930346,
+        "lon": 2.0427151
+      },
+      "tags": {
+        "aeroway": "hangar",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "fire_station:type:FR": "SSLIA",
+        "name": "SSLIA",
+        "operator": "Groupe ADP",
+        "operator:wikidata": "Q794563",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "ban_label": "85 aérodrome de pontoise cormeilles 95650 Boissy-l'Aillerie",
+        "ban_city": "Boissy-l'Aillerie",
+        "ban_postcode": "95650",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 443646382,
+      "center": {
+        "lat": 49.0787826,
+        "lon": 1.9218191
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2026-05-10",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Vigny",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 34 67 89 89",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003399",
+        "source": "Service-Public.fr - 06/2013",
+        "ban_label": "50 Rue Beaudoin 95450 Vigny",
+        "ban_city": "Vigny",
+        "ban_postcode": "95450",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 448546112,
+      "center": {
+        "lat": 49.0704823,
+        "lon": 1.7687397
+      },
+      "tags": {
+        "addr:city": "Aincourt",
+        "addr:full": "31 rue de la Chapelle Saint Sauveur 95510 Aincourt",
+        "addr:postcode": "95510",
+        "addr:street": "Rue de la Chapelle Saint Sauveur",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "fire_station:type:FR": "CPI",
+        "name": "Centre d'incendie et de secours d'Aincourt",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 76 74 39",
+        "ref": "AIN",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Aincourt",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "ban_label": "31 Rue de la Chapelle Saint-sauveur 95510 Aincourt",
+        "ban_city": "Aincourt",
+        "ban_postcode": "95510",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 498633976,
+      "center": {
+        "lat": 49.0024619,
+        "lon": 2.5095696
+      },
+      "tags": {
+        "addr:city": "Roissy-en-France",
+        "addr:housenumber": "3",
+        "addr:postcode": "95700",
+        "addr:street": "Chemin de la Vallée",
+        "amenity": "police",
+        "name": "Gendarmerie nationale",
+        "official_name": "Brigade de gendarmerie de Roissy-en-France",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-18:00; PH 09:00-12:00,15:00-18:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 30 11 61 80",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "1003412",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 10/2018",
+        "website": "https://www.gendarmerie.interieur.gouv.fr/contact/trouver-ma-gendarmerie/brigade-de-roissy-en-france-val-d-oise-95",
+        "ban_label": "3 Chemin de la Vallée 95700 Roissy-en-France",
+        "ban_city": "Roissy-en-France",
+        "ban_postcode": "95700",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 541969349,
+      "center": {
+        "lat": 48.9449321,
+        "lon": 2.2559698
+      },
+      "tags": {
+        "amenity": "police",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police d'Argenteuil",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 34 26 17 10",
+        "police:FR": "police",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015",
+        "wikidata": "Q61954639",
+        "ban_label": "7 Rue Jorand 95100 Argenteuil",
+        "ban_city": "Argenteuil",
+        "ban_postcode": "95100",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622909098,
+      "center": {
+        "lat": 48.9910494,
+        "lon": 2.4452672
+      },
+      "tags": {
+        "addr:city": "Gonesse",
+        "addr:full": "1 rue du Commandant Fourneau 95500 Gonesse",
+        "addr:housenumber": "1",
+        "addr:postcode": "95500",
+        "addr:street": "Rue du Commandant Maurice Fourneau",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Gonesse",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 87 72 40",
+        "ref": "GON",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Gonesse",
+        "ban_label": "1 Rue du Cdt Maurice Fourneau 95500 Gonesse",
+        "ban_city": "Gonesse",
+        "ban_postcode": "95500",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 623172605,
+      "center": {
+        "lat": 48.9985989,
+        "lon": 2.2721739
+      },
+      "tags": {
+        "addr:city": "Eaubonne",
+        "addr:full": "35 rue du Docteur Roux 95600 Eaubonne",
+        "addr:housenumber": "37",
+        "addr:postcode": "95600",
+        "addr:street": "Rue du Docteur Roux",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CSP",
+        "name": "Centre de secours principal d'Eaubonne",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 27 70 60",
+        "ref": "EAU",
+        "ref:FR:SDIS:EM_GRPT": "2",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CSP Eaubonne",
+        "ban_label": "6 Rue Jean Bouin 95600 Eaubonne",
+        "ban_city": "Eaubonne",
+        "ban_postcode": "95600",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 717052843,
+      "center": {
+        "lat": 49.0792606,
+        "lon": 1.9212759
+      },
+      "tags": {
+        "addr:full": "52 rue Beaudouin, 95450 Vigny",
+        "addr:housenumber": "52",
+        "addr:street": "Rue Beaudoin",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Vigny",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 48 61 00",
+        "ref": "VIG",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Vigny",
+        "ban_label": "3 Rue du Lieutenant Henri Savalle 95450 Vigny",
+        "ban_city": "Vigny",
+        "ban_postcode": "95450",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 732479587,
+      "center": {
+        "lat": 49.1067829,
+        "lon": 2.2233944
+      },
+      "tags": {
+        "addr:full": "13 rue de Meriel, 95290 L'Isle-Adam",
+        "addr:housenumber": "13",
+        "addr:street": "Rue de Mériel",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de L'Isle Adam",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 08 18 30",
+        "ref": "LIA",
+        "ref:FR:SDIS:GRPT": "1",
+        "ban_label": "13 Rue de Meriel 95290 L'Isle-Adam",
+        "ban_city": "L'Isle-Adam",
+        "ban_postcode": "95290",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 884220780,
+      "center": {
+        "lat": 48.9953756,
+        "lon": 2.3449783
+      },
+      "tags": {
+        "addr:city": "Saint-Brice-sous-Forêt",
+        "addr:full": "37 avenue de la Division Leclerc 95350 Saint-Brice-sous-Forêt",
+        "addr:housenumber": "37",
+        "addr:postcode": "95350",
+        "addr:street": "Avenue Division Leclerc",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Montmorency",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 33 76 60",
+        "ref": "MON",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Montmorency - Saint-Brice-sous-Forêt",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "ban_label": "37 Avenue de la Division Leclerc 95350 Saint-Brice-sous-Forêt",
+        "ban_city": "Saint-Brice-sous-Forêt",
+        "ban_postcode": "95350",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916472499,
+      "center": {
+        "lat": 48.9738193,
+        "lon": 2.4048525
+      },
+      "tags": {
+        "addr:city": "Garges les Gonesse",
+        "addr:full": "Rue du 8 mai 1945 95140 Garges-lès-Gonesse",
+        "addr:postcode": "95140",
+        "addr:street": "Avenue du 8 Mai 1945",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Garges-lès-Gonesse",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 45 23 90",
+        "ref": "GLG",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Garges-lès-Gonesse",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "ban_label": "4 Rue des Muriers 95140 Garges-lès-Gonesse",
+        "ban_city": "Garges-lès-Gonesse",
+        "ban_postcode": "95140",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916478079,
+      "center": {
+        "lat": 49.0011898,
+        "lon": 2.3863142
+      },
+      "tags": {
+        "addr:city": "Villiers-le-Bel",
+        "addr:full": "2 avenue des Érables 95400 Villiers-le-Bel",
+        "addr:housenumber": "2",
+        "addr:postcode": "95400",
+        "addr:street": "Avenue des Érables",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CSP",
+        "name": "Centre de secours principal de Villiers-le-Bel",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 33 75 60",
+        "ref": "VLB",
+        "ref:FR:SDIS:EM_GRPT": "3",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CSP Villiers-le-Bel",
+        "ban_label": "53 Rue Victor Hugo 95200 Sarcelles",
+        "ban_city": "Sarcelles",
+        "ban_postcode": "95200",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916478081,
+      "center": {
+        "lat": 48.9534532,
+        "lon": 2.2150168
+      },
+      "tags": {
+        "addr:city": "Argenteuil",
+        "addr:full": "2 boulevard des Martyrs de Châteaubriant 95100 Argenteuil",
+        "addr:housenumber": "1",
+        "addr:postcode": "95100",
+        "addr:street": "Boulevard des Martyrs de Chateaubriand",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CSP",
+        "name": "Centre de secours principal d'Argenteuil",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 11 77 80",
+        "ref": "ARG",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CSP Argenteuil",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "ban_label": "2 Boulevard des Martyrs de Chateaubriand 95100 Argenteuil",
+        "ban_city": "Argenteuil",
+        "ban_postcode": "95100",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916490621,
+      "center": {
+        "lat": 49.0250226,
+        "lon": 2.3353098
+      },
+      "tags": {
+        "addr:city": "Domont",
+        "addr:full": "50 rue André Nouet 95330 Domont",
+        "addr:postcode": "95130",
+        "addr:street": "Rue André Nouet",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Domont",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 11 90 70",
+        "ref": "DOM",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CS Domont",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "ban_label": "50 Rue André Nouet 95330 Domont",
+        "ban_city": "Domont",
+        "ban_postcode": "95330",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916493337,
+      "center": {
+        "lat": 48.9907776,
+        "lon": 2.1975399
+      },
+      "tags": {
+        "addr:city": "Montigny-lès-Cormeilles",
+        "addr:full": "56 rue Jacques Verniol 95240 Montigny-lès-Cormeilles",
+        "addr:housenumber": "56",
+        "addr:postcode": "95370",
+        "addr:street": "Rue Jacques Verniol",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Cenre d'incendie et de secours de Montigny-lès-Cormeilles",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 26 34 80",
+        "ref": "MLC",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CS Montigny-lès-Cormeilles",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "ban_label": "56 Rue Jacques Verniol 95370 Montigny-lès-Cormeilles",
+        "ban_city": "Montigny-lès-Cormeilles",
+        "ban_postcode": "95370",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1128318506,
+      "center": {
+        "lat": 48.9693952,
+        "lon": 2.2054444
+      },
+      "tags": {
+        "addr:city": "Cormeilles en Parisis",
+        "addr:full": "50 rue de la République 95240 Cormeilles-en-Parisis",
+        "addr:housenumber": "50",
+        "addr:postcode": "95240",
+        "addr:street": "Rue de la République",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "landuse": "commercial",
+        "name": "Centre d'incendie et de secours de Cormeilles-en-Parisis",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 26 34 90",
+        "ref": "CEP",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Cormeilles-en-Parisis",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "ban_label": "52 Rue de la République 95240 Cormeilles-en-Parisis",
+        "ban_city": "Cormeilles-en-Parisis",
+        "ban_postcode": "95240",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1376980193,
+      "center": {
+        "lat": 49.0017057,
+        "lon": 2.4071606
+      },
+      "tags": {
+        "addr:city": "Villiers-le-Bel",
+        "addr:housenumber": "51",
+        "addr:postcode": "95400",
+        "addr:street": "Avenue Pierre Semard",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Police Municipale",
+        "ban_label": "51 Avenue Pierre Sémard 95400 Villiers-le-Bel",
+        "ban_city": "Villiers-le-Bel",
+        "ban_postcode": "95400",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383863233,
+      "center": {
+        "lat": 49.0977233,
+        "lon": 2.5324503
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "fixme": "Shape is approximative waiting for cadastre",
+        "name": "Gendarmerie nationale",
+        "official_name": "Gendarmerie - Brigade de Survilliers",
+        "opening_hours": "Mo-Sa 08:00-12:00,14:00-19:00; Su 09:00-12:00,15:00-19:00; PH 09:00-12:00,15:00-19:00",
+        "operator": "Gendarmerie nationale",
+        "operator:wikidata": "Q1422336",
+        "phone": "+33 1 30 29 12 30",
+        "police:FR": "gendarmerie",
+        "ref:FR:GendarmerieNationale": "24000530",
+        "source": "data.gouv.fr:Ministère de l'Intérieur - 2026-02",
+        "website": "https://www.gendarmerie.interieur.gouv.fr/contact/trouver-ma-gendarmerie/brigade-de-survilliers-val-d-oise-95",
+        "ban_label": "2 Chemin de la Distillerie 95470 Survilliers",
+        "ban_city": "Survilliers",
+        "ban_postcode": "95470",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1419090052,
+      "center": {
+        "lat": 48.9247749,
+        "lon": 2.219874
+      },
+      "tags": {
+        "addr:full": "120 rue Jean Jaurès 95870 Bezons",
+        "addr:street": "Rue Jean Jaurès",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Bezons",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 96 54 90",
+        "ref": "BEZ",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Bezons",
+        "ban_label": "2 Rue Robert Branchard 95870 Bezons",
+        "ban_city": "Bezons",
+        "ban_postcode": "95870",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446725158,
+      "center": {
+        "lat": 49.0251337,
+        "lon": 2.0993693
+      },
+      "tags": {
+        "addr:city": "Éragny-sur-Oise",
+        "addr:full": "Passage des Secours 95610 Eragny-sur-Oise",
+        "addr:housenumber": "5",
+        "addr:postcode": "95610",
+        "addr:street": "Passage des Secours",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours d'Éragny-sur-Oise",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 32 59 20",
+        "ref": "ERA",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Éragny-sur-Oise",
+        "ban_label": "5 Rue Elsa Triolet 95610 Éragny-sur-Oise",
+        "ban_city": "Éragny-sur-Oise",
+        "ban_postcode": "95610",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745678,
+      "center": {
+        "lat": 49.0047139,
+        "lon": 2.5087173
+      },
+      "tags": {
+        "addr:city": "Roissy en France",
+        "addr:full": "1 avenue du Montmorency 95700 Roissy-en-France",
+        "addr:housenumber": "1",
+        "addr:postcode": "95700",
+        "addr:street": "Avenue de Montmorency",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Roissy-en-France",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 18 20 90",
+        "ref": "ROI",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Roissy-en-France",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "29 Rue Jean Moulin 95700 Roissy-en-France",
+        "ban_city": "Roissy-en-France",
+        "ban_postcode": "95700",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745680,
+      "center": {
+        "lat": 48.9643558,
+        "lon": 2.2757261
+      },
+      "tags": {
+        "addr:city": "Saint-Gratien",
+        "addr:full": "51 rue d'Orgemont 95210 Saint-Gratien",
+        "addr:housenumber": "51",
+        "addr:postcode": "95210",
+        "addr:street": "Rue d'Orgemont",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Saint-Gratien",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 34 95 40",
+        "ref": "GRA",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Saint-Gratien",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "ban_label": "2 Rue d’Orgemont 95210 Saint-Gratien",
+        "ban_city": "Saint-Gratien",
+        "ban_postcode": "95210",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745682,
+      "center": {
+        "lat": 49.1337625,
+        "lon": 2.2314362
+      },
+      "tags": {
+        "addr:city": "Champagne-sur-Oise",
+        "addr:full": "67 bis rue Jules Picard 95660 Champagne-sur-Oise",
+        "addr:postcode": "95660",
+        "addr:street": "Rue Jules Picard",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CPI",
+        "name": "Centre d'incendie et de secours de Champagne-sur-Oise",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 34 47 70",
+        "ref": "CHA",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Champagne-sur-Oise",
+        "ban_label": "65bis Rue Jules Picard 95660 Champagne-sur-Oise",
+        "ban_city": "Champagne-sur-Oise",
+        "ban_postcode": "95660",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745684,
+      "center": {
+        "lat": 48.9758829,
+        "lon": 2.245518
+      },
+      "tags": {
+        "addr:full": "65 boulevard Gambetta 95110 Sannois",
+        "addr:housenumber": "65",
+        "addr:street": "Boulevard Gambetta",
+        "amenity": "fire_station",
+        "check_date": "2024-05-25",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Sannois",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 98 50 90",
+        "ref": "SAN",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Sannois",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "wheelchair": "yes",
+        "ban_label": "61 Boulevard Gambetta 95110 Sannois",
+        "ban_city": "Sannois",
+        "ban_postcode": "95110",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745685,
+      "center": {
+        "lat": 49.0469384,
+        "lon": 2.5129782
+      },
+      "tags": {
+        "addr:city": "Louvres",
+        "addr:full": "1 route de la Grande aux Dîmes 95380 Louvres",
+        "addr:housenumber": "1",
+        "addr:postcode": "95380",
+        "addr:street": "Route de la Grange aux Dîmes",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Louvres",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 47 41 80",
+        "ref": "LOU",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Louvres",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "1 Route de la Grange aux Dîmes 95380 Louvres",
+        "ban_city": "Louvres",
+        "ban_postcode": "95380",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745689,
+      "center": {
+        "lat": 49.0311143,
+        "lon": 2.4587173
+      },
+      "tags": {
+        "addr:city": "Goussainville",
+        "addr:full": "13 avenue Albert Sarraut 95190 Goussainville",
+        "addr:housenumber": "13",
+        "addr:postcode": "95190",
+        "addr:street": "Avenue Albert Sarraut",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Goussainville",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 38 80 30",
+        "ref": "GOU",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Goussainville",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "ban_label": "1 Rue Gutenberg 95190 Goussainville",
+        "ban_city": "Goussainville",
+        "ban_postcode": "95190",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745691,
+      "center": {
+        "lat": 48.9989571,
+        "lon": 2.218273
+      },
+      "tags": {
+        "addr:city": "Franconville",
+        "addr:full": "57 avenue des Marais 95130 Franconville",
+        "addr:housenumber": "57",
+        "addr:postcode": "95130",
+        "addr:street": "Avenue des Marais",
+        "amenity": "fire_station",
+        "check_date": "2024-09-15",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Franconville",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 72 85 00",
+        "ref": "FRA",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Franconville",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+        "ban_label": "27 Avenue des Marais 95130 Franconville",
+        "ban_city": "Franconville",
+        "ban_postcode": "95130",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745693,
+      "center": {
+        "lat": 49.0192687,
+        "lon": 2.2141148
+      },
+      "tags": {
+        "addr:city": "Taverny",
+        "addr:full": "1 rue Pierre de Coubertin 95150 Taverny",
+        "addr:postcode": "95150",
+        "addr:street": "Rue Pierre de Coubertin",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Taverny",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 18 36 70",
+        "ref": "TAV",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Taverny",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "ban_label": "1 Rue Pierre de Coubertin 95150 Taverny",
+        "ban_city": "Taverny",
+        "ban_postcode": "95150",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745696,
+      "center": {
+        "lat": 49.1393734,
+        "lon": 1.6642166
+      },
+      "tags": {
+        "addr:city": "Bray-et-Lû",
+        "addr:full": "11 rue de l'école 95710 Bray-et-Lu",
+        "addr:housenumber": "12",
+        "addr:postcode": "95710",
+        "addr:street": "Rue de l'École",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CPI",
+        "name": "Centre d'incendie et de secours de Bray-et-Lû",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 27 35 00",
+        "ref": "BEL",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Bray-et-Lû",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "ban_label": "11 Rue de l'École 95710 Bray-et-Lû",
+        "ban_city": "Bray-et-Lû",
+        "ban_postcode": "95710",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745699,
+      "center": {
+        "lat": 48.9993597,
+        "lon": 2.1559897
+      },
+      "tags": {
+        "addr:city": "Herblay",
+        "addr:full": "56 boulevard de Verdun 95220 Herblay-sur-Seine",
+        "addr:housenumber": "53",
+        "addr:postcode": "95220",
+        "addr:street": "Boulevard de Verdun",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours d'Herblay",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 39 31 30 70",
+        "ref": "HER",
+        "ref:FR:SDIS:GRPT": "2",
+        "short_name": "CIS Herblay",
+        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+        "ban_label": "45 Boulevard de Verdun 95220 Herblay-sur-Seine",
+        "ban_city": "Herblay-sur-Seine",
+        "ban_postcode": "95220",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745702,
+      "center": {
+        "lat": 49.146129,
+        "lon": 1.7886347
+      },
+      "tags": {
+        "addr:city": "Magny-en-Vexin",
+        "addr:full": "7 route de Mantes 95420 Magny-en-Vexin",
+        "addr:housenumber": "7",
+        "addr:postcode": "95420",
+        "addr:street": "Route de Mantes",
+        "amenity": "fire_station",
+        "check_date": "2025-05-02",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Magny-en-Vexin",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 46 89 60",
+        "ref": "MEV",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Magny-en-Vexin",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "start_date": "before 2003-05-28",
+        "ban_label": "33 Route de Mantes 95420 Magny-en-Vexin",
+        "ban_city": "Magny-en-Vexin",
+        "ban_postcode": "95420",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446745703,
+      "center": {
+        "lat": 49.1258475,
+        "lon": 2.3717651
+      },
+      "tags": {
+        "addr:city": "Viarmes",
+        "addr:full": "24 Rue Kleinpeter 95270 Viarmes",
+        "addr:postcode": "95270",
+        "addr:street": "Rue Klienpeter",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Viarmes",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 30 35 41 13",
+        "ref": "VIA",
+        "ref:FR:SDIS:GRPT": "3",
+        "short_name": "CIS Viarmes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "ban_label": "11 Rue Claude Debussy 95270 Viarmes",
+        "ban_city": "Viarmes",
+        "ban_postcode": "95270",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17783386,
+      "center": {
+        "lat": 49.038012,
+        "lon": 2.085542
+      },
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "check_date": "2024-04-13",
+        "name": "Police nationale",
+        "official_name": "Commissariat de police de Cergy",
+        "operator": "Police nationale",
+        "operator:wikidata": "Q121484",
+        "phone": "+33 1 34 43 17 17",
+        "police:FR": "police",
+        "type": "multipolygon",
+        "wikidata": "Q61954646",
+        "ban_label": "4 Rue de la Croix des Maheux 95000 Cergy",
+        "ban_city": "Cergy",
+        "ban_postcode": "95000",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 20404327,
+      "center": {
+        "lat": 49.1462136,
+        "lon": 1.9745593
+      },
+      "tags": {
+        "addr:city": "Marines",
+        "addr:full": "19 boulevard Gambetta 95640 Marines",
+        "addr:housenumber": "19",
+        "addr:postcode": "95640",
+        "addr:street": "Boulevard Gambetta",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CS",
+        "name": "Centre d'incendie et de secours de Marines",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 67 56 00",
+        "ref": "MAR",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CIS Marines",
+        "type": "multipolygon",
+        "ban_label": "15 Boulevard Gambetta 95640 Marines",
+        "ban_city": "Marines",
+        "ban_postcode": "95640",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 20678995,
+      "center": {
+        "lat": 49.1215325,
+        "lon": 2.0062855
+      },
+      "tags": {
+        "addr:city": "Cormeilles-en-Vexin",
+        "addr:full": "4 route de Dieppe 95830 Cormeilles-en-Vexin",
+        "addr:housenumber": "4",
+        "addr:postcode": "95830",
+        "addr:street": "Route de Dieppe",
+        "amenity": "fire_station",
+        "fire_station:type:FR": "CPI",
+        "name": "Centre d'incendie et de secours de Cormeilles-en-Vexin",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938",
+        "phone": "+33 1 34 66 25 50",
+        "ref": "CEV",
+        "ref:FR:SDIS:GRPT": "1",
+        "short_name": "CS Cormeilles-en-Vexin",
+        "type": "multipolygon",
+        "ban_label": "4 Route de Dieppe 95830 Cormeilles-en-Vexin",
+        "ban_city": "Cormeilles-en-Vexin",
+        "ban_postcode": "95830",
+        "ban_context": "95, Val-d'Oise, Île-de-France"
+      }
+    }
   ]
 }
