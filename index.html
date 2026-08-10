@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Police, gendarmerie et sapeurs-pompiers dans le Val-d'Oise — DDT 95">
+<title>Sécurité · Secours · Val-d'Oise · DDT 95</title>
+<link rel="preconnect" href="https://tile.openstreetmap.org">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<link rel="stylesheet" href="css/style.css?v=1">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand-logo-link" href="https://ddt95.github.io/atlas-territorial-95/" aria-label="Retour à l'Atlas territorial"><img class="brand-logo" src="assets/prefet-val-doise.svg" alt="Préfet du Val-d'Oise"></a>
+  <div class="title-block"><span class="eyebrow">SÉCURITÉ · SECOURS · VAL-D'OISE</span><h1>Qui intervient, où et comment ?</h1><p>Police, gendarmerie et sapeurs-pompiers expliqués à hauteur de territoire</p></div>
+  <button id="mobileLayers" class="mobile-layers" aria-controls="layerSidebar" aria-expanded="false">Données</button>
+  <button id="openComprendreTop" class="livebox"><span class="fresh-dot"></span><div><strong>Comprendre la carte</strong><small>Sources, périmètres et bons réflexes</small></div></button>
+</header>
+
+<main class="workspace">
+  <aside id="layerSidebar" class="sidebar" aria-label="Choix du territoire et des couches">
+    <div class="sidebar-intro"><div><span class="eyebrow">LECTURE CARTOGRAPHIQUE</span><h2>Explorer la sécurité</h2><p>Choisissez une commune pour connaître la force territorialement compétente et repérer les services de proximité.</p></div></div>
+    <label class="search-box"><span>Rechercher une commune</span><div><input id="searchInput" type="search" placeholder="Ex. Pontoise" autocomplete="off"><button id="searchButton" aria-label="Rechercher">→</button></div></label>
+    <div id="searchResults" class="search-results" hidden></div>
+    <div class="quick-actions"><button id="resetView">Recentrer</button><button id="openUrgences">Numéros d’urgence</button></div>
+
+    <div class="layer-group" aria-label="Périmètres de compétence"><span>PÉRIMÈTRES DE COMPÉTENCE</span><div class="layer-cards">
+      <button type="button" class="layer-card active" data-layer="police"><i class="layer-swatch police" aria-hidden="true"></i><span><b>Police nationale</b><small>Zone de compétence PN</small></span><i class="layer-switch" aria-hidden="true"></i></button>
+      <button type="button" class="layer-card active" data-layer="gendarmerie"><i class="layer-swatch gendarmerie" aria-hidden="true"></i><span><b>Gendarmerie nationale</b><small>Zone de compétence GN</small></span><i class="layer-switch" aria-hidden="true"></i></button>
+    </div></div>
+    <div class="layer-group" aria-label="Services de secours"><span>SERVICES DE PROXIMITÉ</span><div class="layer-cards">
+      <button type="button" class="layer-card active" data-layer="pompiers"><i class="layer-swatch pompiers" aria-hidden="true"></i><span><b>Sapeurs-pompiers</b><small>Principaux centres de secours</small></span><i class="layer-switch" aria-hidden="true"></i></button>
+    </div></div>
+    <button id="openComprendre" class="sources-inline">Sources, méthode et limites</button>
+    <div class="sidebar-footer"><div class="fresh-dot"></div><div><strong>Référentiels publics</strong><small>Ministère de l’Intérieur · SDIS 95 · IGN</small></div></div>
+  </aside>
+
+  <section class="map-shell" aria-label="Carte interactive"><div id="map"></div><div class="security-legend"><strong>Force compétente</strong><span><i class="pn"></i> Police nationale</span><span><i class="gn"></i> Gendarmerie nationale</span><span><i class="fire"></i> Centre de secours</span></div><div class="map-note"><span class="pulse"></span><span id="mapStatus">Chargement des données…</span></div></section>
+  <aside id="detailPanel" class="detail-panel" aria-live="polite"><button id="closeDetail" class="close-btn" aria-label="Fermer le panneau">×</button><div id="detailContent"></div></aside>
+</main>
+
+<dialog id="urgenceDialog" class="dialog"><button class="dialog-close" data-close="urgenceDialog" aria-label="Fermer">×</button><div class="dialog-header"><span class="eyebrow">EN CAS D’URGENCE</span><h2>Le bon numéro, au bon moment</h2><p>Ne vous déplacez pas vers un service : appelez d’abord si la situation est urgente.</p></div><div class="dialog-body emergency-grid">
+  <a href="tel:112"><strong>112</strong><span>Urgence européenne<small>Partout dans l’Union européenne</small></span></a><a href="tel:17"><strong>17</strong><span>Police · Gendarmerie<small>Danger immédiat ou trouble à l’ordre public</small></span></a><a href="tel:18"><strong>18</strong><span>Sapeurs-pompiers<small>Incendie, accident, secours d’urgence</small></span></a><a href="tel:114"><strong>114</strong><span>Urgence par écrit<small>SMS, tchat et visio accessibles</small></span></a>
+</div></dialog>
+
+<dialog id="comprendreDialog" class="dialog"><button class="dialog-close" data-close="comprendreDialog" aria-label="Fermer">×</button><div class="dialog-header"><span class="eyebrow">TRAÇABILITÉ</span><h2>Comprendre la carte</h2><p>Ce que montre la carte, comment la lire et quelles précautions prendre.</p></div><div class="dialog-body">
+  <h3>Ce que montre cette carte</h3><p>Chaque commune est colorée selon la force nationale territorialement compétente : Police nationale ou Gendarmerie nationale. Les points rouges repèrent les principaux centres de secours.</p>
+  <h3>Comment lire la carte</h3><ul><li><strong>Cliquez sur une commune</strong> pour afficher son unité de rattachement.</li><li><strong>Activez ou masquez</strong> les trois familles d’information depuis la colonne de gauche.</li><li>La police municipale n’est pas une zone nationale de compétence et n’est donc pas représentée dans ce partage PN/GN.</li></ul>
+  <h3>Sources et limites</h3><ul><li>Ministère de l’Intérieur, référentiel « Compétence territoriale gendarmerie et police nationales », août 2026.</li><li>Contours communaux : API Découpage administratif, géographie courante.</li><li>Centres de secours : implantation indicative à vérifier auprès du SDIS 95 ; cette carte ne représente pas les délais ni les secteurs opérationnels d’intervention.</li></ul>
+  <div class="source-cards"><div class="source-card"><h3>Ministère de l’Intérieur</h3><p>Référentiel national de compétence PN/GN.</p><a href="https://www.data.gouv.fr/datasets/competence-territoriale-gendarmerie-et-police-nationales" target="_blank" rel="noopener">Voir la source ↗</a></div><div class="source-card"><h3>Ma Sécurité</h3><p>Démarches, conseils et échange avec les forces de sécurité.</p><a href="https://www.masecurite.interieur.gouv.fr/" target="_blank" rel="noopener">Accéder au service ↗</a></div></div>
+</div></dialog>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script><script src="js/app.js?v=1"></script>
+</body></html>
