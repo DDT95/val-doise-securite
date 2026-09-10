@@ -1,5 +1,5 @@
 const state={policeZone:true,gendarmerieZone:true,commissariats:true,brigades:true,pompiers:true,communes:[],competences:new Map(),services:[],territory:null,markers:[]};
-const map=L.map("map",{zoomControl:false}).setView([49.075,2.1],9);L.control.zoom({position:"bottomright"}).addTo(map);L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",{maxZoom:19,subdomains:"abcd",attribution:"© OpenStreetMap · © CARTO"}).addTo(map);
+const map=L.map("map",{zoomControl:false}).setView([49.075,2.1],9);L.control.zoom({position:"bottomright"}).addTo(map);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(map);
 function parseCsv(text){return text.split(/\r?\n/).slice(1).map(line=>{const c=line.split(";").map(v=>v.replace(/^"|"$/g,""));return{code:c[0],institution:c[2],service:c[4]}}).filter(r=>r.code?.startsWith("95"))}
 const sectorPalette=["#0b6e4f","#7b2cbf","#d1495b","#0077b6","#f77f00","#6a994e","#9c6644","#4361ee","#c2185b","#00897b","#8d6e00","#5e548e","#e76f51","#277da1","#7f5539"];
 const sectorNames=[];
