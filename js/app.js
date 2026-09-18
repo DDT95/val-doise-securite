@@ -8,7 +8,7 @@ const cspPalette=["#0b6e4f","#d1495b","#0077b6","#f77f00","#5e548e","#c2185b"];
 const cspNames=[];
 function cspLabel(name){return name.charAt(0)+name.slice(1).toLowerCase()}
 function cspColor(name){const index=Math.max(0,cspNames.indexOf(name));return cspPalette[index%cspPalette.length]}
-function cspStyle(feature){return{color:"#fff",weight:1.6,fillColor:cspColor(feature.properties.nom),fillOpacity:.55,interactive:false}}
+function cspStyle(feature){return{color:"#fff",weight:2.2,fillColor:cspColor(feature.properties.nom),fillOpacity:.68,interactive:false}}
 const map=L.map("map",{zoomControl:false}).setView([49.075,2.1],9);L.control.zoom({position:"bottomright"}).addTo(map);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(map);
 function parseCsv(text){return text.split(/\r?\n/).slice(1).map(line=>{const c=line.split(";").map(v=>v.replace(/^"|"$/g,""));return{code:c[0],institution:c[2],service:c[4]}}).filter(r=>r.code?.startsWith("95"))}
 const sectorPalette=["#0b6e4f","#7b2cbf","#d1495b","#0077b6","#f77f00","#6a994e","#9c6644","#4361ee","#c2185b","#00897b","#8d6e00","#5e548e","#e76f51","#277da1","#7f5539"];
