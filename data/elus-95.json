@@ -1,0 +1,1644 @@
+{
+ "source": "Répertoire national des élus (data.gouv.fr, MI, maj 11/08/2026) ; canton: Ville de rêve / COG 2026 ; circonscriptions: INSEE, Portraits des circonscriptions législatives",
+ "senateurs": [
+  "Pierre BARROS",
+  "Arnaud BAZIN",
+  "Jacqueline EUSTACHE-BRINIO",
+  "Daniel FARGEOT",
+  "Rachid TEMAL"
+ ],
+ "deputes": {
+  "9501": "Anne SICARD",
+  "9502": "Ayda HADIZADEH",
+  "9503": "Emmanuel MAUREL",
+  "9504": "Benoît BLANCHARD",
+  "9505": "Paul VANNIER",
+  "9506": "Gabrielle CATHALA",
+  "9507": "Romain ESKENAZI",
+  "9508": "Carlos Martens BILONGO",
+  "9509": "Arnaud LE GALL",
+  "9510": "Aurélien TACHÉ"
+ },
+ "conseillers_departementaux": {
+  "9501": {
+   "nom": "Argenteuil-1",
+   "elus": [
+    "Malika AHRES",
+    "Julien BACHARD"
+   ]
+  },
+  "9502": {
+   "nom": "Argenteuil-2",
+   "elus": [
+    "Pascal BERTOLINI",
+    "Nadia METREF"
+   ]
+  },
+  "9503": {
+   "nom": "Argenteuil-3",
+   "elus": [
+    "Nicolas BOUGEARD",
+    "Nessrine MENHAOUARA"
+   ]
+  },
+  "9504": {
+   "nom": "Cergy-1",
+   "elus": [
+    "Mickaël DECLERCK",
+    "Virginie TINLAND"
+   ]
+  },
+  "9505": {
+   "nom": "Cergy-2",
+   "elus": [
+    "Edwina ETORE",
+    "Alexandre PUEYO"
+   ]
+  },
+  "9506": {
+   "nom": "Deuil-La-Barre",
+   "elus": [
+    "Muriel SCOLAN",
+    "Philippe SUEUR"
+   ]
+  },
+  "9507": {
+   "nom": "Domont",
+   "elus": [
+    "Sébastien MEURANT",
+    "Céline VILLECOURT"
+   ]
+  },
+  "9508": {
+   "nom": "Ermont",
+   "elus": [
+    "Xavier HAQUIN",
+    "Noellie PLELAN"
+   ]
+  },
+  "9509": {
+   "nom": "Fosses",
+   "elus": [
+    "Agnès RAFAITIN-MARIN",
+    "Patrice ROBIN"
+   ]
+  },
+  "9510": {
+   "nom": "Franconville",
+   "elus": [
+    "Yannick BOËDEC",
+    "Marie-Christine CAVECCHI"
+   ]
+  },
+  "9511": {
+   "nom": "Garges-Lès-Gonesse",
+   "elus": [
+    "Sarah MOINE",
+    "Ramzi ZINAOUI"
+   ]
+  },
+  "9512": {
+   "nom": "Goussainville",
+   "elus": [
+    "Anthony ARCIERO",
+    "Isabelle RUSIN"
+   ]
+  },
+  "9513": {
+   "nom": "Herblay-sur-Seine",
+   "elus": [
+    "Manuela MELO",
+    "Philippe ROULEAU"
+   ]
+  },
+  "9514": {
+   "nom": "L'Isle-Adam",
+   "elus": [
+    "Sabrina ECARD",
+    "Morgan TOUBOUL"
+   ]
+  },
+  "9515": {
+   "nom": "Montmorency",
+   "elus": [
+    "Aziza PHILIPPON",
+    "Luc STREHAIANO"
+   ]
+  },
+  "9516": {
+   "nom": "Pontoise",
+   "elus": [
+    "Paul DUBRAY",
+    "Anne FROMENTEIL"
+   ]
+  },
+  "9517": {
+   "nom": "Saint-Ouen-L'Aumône",
+   "elus": [
+    "Pierre-Édouard EON",
+    "Véronique PELISSIER"
+   ]
+  },
+  "9518": {
+   "nom": "Sarcelles",
+   "elus": [
+    "Patrick HADDAD",
+    "Déborah ISRAEL"
+   ]
+  },
+  "9519": {
+   "nom": "Taverny",
+   "elus": [
+    "Laetitia BOISSEAU-STAL",
+    "Gérard LAMBERT-MOTTE"
+   ]
+  },
+  "9520": {
+   "nom": "Vauréal",
+   "elus": [
+    "Patricia JOSÉ",
+    "Thomas VATEL"
+   ]
+  },
+  "9521": {
+   "nom": "Villiers-Le-Bel",
+   "elus": [
+    "Cédric SABOURET",
+    "Cécilia TOUNGSI-SIMO"
+   ]
+  }
+ },
+ "communes": {
+  "95061": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Didier DAGONET"
+  },
+  "95572": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Laurent LINQUETTE"
+  },
+  "95141": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Rodolphe THOMASSIN"
+  },
+  "95488": {
+   "canton_code": "9519",
+   "canton_nom": "Taverny",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Eric BOSC"
+  },
+  "95091": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Karine OKONSKI"
+  },
+  "95197": {
+   "canton_code": "9506",
+   "canton_nom": "Deuil-la-Barre",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Muriel SCOLAN"
+  },
+  "95430": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Silvio BIELLO"
+  },
+  "95170": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Michel FINET"
+  },
+  "95678": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Vincent BARRAILLER"
+  },
+  "95660": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Patrice ROBIN"
+  },
+  "95543": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Bruno MARAIS"
+  },
+  "95637": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Raphaël LANTERI"
+  },
+  "95447": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jérôme OLIVIER"
+  },
+  "95039": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Isabelle MÉZIÈRES"
+  },
+  "95658": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Vanessa LEGAIGNEUR"
+  },
+  "95480": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Loïc TAILLANTER"
+  },
+  "95282": {
+   "circos": [
+    "95001"
+   ]
+  },
+  "95450": {
+   "canton_code": "9505",
+   "canton_nom": "Cergy-2",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Sébastien DRUART"
+  },
+  "95641": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Farid BENABDELAZIZ"
+  },
+  "95690": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Laurent BOSSU"
+  },
+  "95051": {
+   "canton_code": "9519",
+   "canton_nom": "Taverny",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Françoise NORDMANN"
+  },
+  "95388": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Catherine RENAUD"
+  },
+  "95604": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Adeline ROLDAO"
+  },
+  "95177": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Vincent IBRELISLE"
+  },
+  "95656": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Serge BILLOUÉ"
+  },
+  "95504": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Céline CAUDRON"
+  },
+  "95268": {
+   "canton_code": "9511",
+   "canton_nom": "Garges-lès-Gonesse",
+   "circos": [
+    "95008"
+   ],
+   "maire": "Benoît JIMENEZ"
+  },
+  "95676": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jean-François Christian RENARD"
+  },
+  "95680": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95008"
+   ],
+   "maire": "Djida TECHTACH"
+  },
+  "95348": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Norbert LALLOYER"
+  },
+  "95313": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Sébastien PONIATOWSKI"
+  },
+  "95154": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Eric PLASMANS"
+  },
+  "95387": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Christian PION"
+  },
+  "95628": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Laurent DE GAULLE"
+  },
+  "95422": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Rémi LEPAPE"
+  },
+  "95166": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "René PANNIER"
+  },
+  "95008": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jean-Bernard TECHER"
+  },
+  "95102": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Christophe BENOIST POUTEAU"
+  },
+  "95331": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Gilbert MAUGAN"
+  },
+  "95303": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Maurice DELAHAYE"
+  },
+  "95446": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Christophe BUATOIS"
+  },
+  "95120": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Claude NOËL"
+  },
+  "95078": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Paul DUBRAY"
+  },
+  "95012": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Frédérique CAMBOURIEUX"
+  },
+  "95088": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95008"
+   ],
+   "maire": "Abdellah BENOUARET"
+  },
+  "95459": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Ghislaine JOURNÉE"
+  },
+  "95203": {
+   "canton_code": "9508",
+   "canton_nom": "Ermont",
+   "circos": [
+    "95004"
+   ],
+   "maire": "Marie-José BEAULANDE"
+  },
+  "95529": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Patrick PRÉMEL"
+  },
+  "95142": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Nicolas BELANGÉ"
+  },
+  "95355": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Luc PUECH D'ALISSAC"
+  },
+  "95134": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Stéphane CARTEADO"
+  },
+  "95176": {
+   "canton_code": "9510",
+   "canton_nom": "Franconville",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Yannick BOËDEC"
+  },
+  "95257": {
+   "canton_code": "9513",
+   "canton_nom": "Herblay-sur-Seine",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Philippe AUDEBERT"
+  },
+  "95270": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jean-Marc LALANNE"
+  },
+  "95566": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Nathalie BENYAHIA"
+  },
+  "95011": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Martine SOREL"
+  },
+  "95139": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Laurent ASTRUC"
+  },
+  "95500": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Stéphanie VON EUW"
+  },
+  "95394": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Pierre-Édouard EON"
+  },
+  "95149": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Sylvain SARAGOSA"
+  },
+  "95675": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Dominique KUDLA"
+  },
+  "95308": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Eric BAERT"
+  },
+  "95002": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Patrick PELLETIER"
+  },
+  "95427": {
+   "canton_code": "9506",
+   "canton_nom": "Deuil-la-Barre",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Belkacem CHIKH"
+  },
+  "95370": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Michel DÉJARDIN"
+  },
+  "95428": {
+   "canton_code": "9515",
+   "canton_nom": "Montmorency",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Maxime THORY"
+  },
+  "95018": {
+   "canton_code": "9598",
+   "canton_nom": "Argenteuil",
+   "circos": [
+    "95005"
+   ],
+   "maire": "Georges MOTHRON"
+  },
+  "95229": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Eric BATTAGLIA"
+  },
+  "95651": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Dominique HERPIN-POULENAT"
+  },
+  "95058": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Olivier ANTY"
+  },
+  "95157": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Philippe VANDEPUTTE"
+  },
+  "95063": {
+   "canton_code": "9503",
+   "canton_nom": "Argenteuil-3",
+   "circos": [
+    "95005"
+   ],
+   "maire": "Nessrine MENHAOUARA"
+  },
+  "95119": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jean-Pierre DORÉ"
+  },
+  "95046": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Bertrand FOUCAULT"
+  },
+  "95610": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Denis SARGERET"
+  },
+  "95144": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Romain RENAUD"
+  },
+  "95456": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Catherine BORGNE"
+  },
+  "95040": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Nicolas PASTERNAK"
+  },
+  "95598": {
+   "canton_code": "9515",
+   "canton_nom": "Montmorency",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Nicolas NAUDET"
+  },
+  "95026": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Éric THERRY"
+  },
+  "95523": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Capucine FAIVRE"
+  },
+  "95309": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Eric BRETON"
+  },
+  "95510": {
+   "canton_code": "9504",
+   "canton_nom": "Cergy-1",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Thierry THOMASSIN"
+  },
+  "95219": {
+   "canton_code": "9508",
+   "canton_nom": "Ermont",
+   "circos": [
+    "95004"
+   ],
+   "maire": "Xavier HAQUIN"
+  },
+  "95256": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Martine BERNARD"
+  },
+  "95409": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Véronique RIBOUT"
+  },
+  "95250": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Jacqueline HAESINGER"
+  },
+  "95365": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Chantal ROMAND"
+  },
+  "95218": {
+   "canton_code": "9505",
+   "canton_nom": "Cergy-2",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Thibault HUMBERT"
+  },
+  "95585": {
+   "canton_code": "9518",
+   "canton_nom": "Sarcelles",
+   "circos": [
+    "95007",
+    "95008"
+   ],
+   "maire": "Bassi KONATE"
+  },
+  "95253": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Angélique LAGO"
+  },
+  "95287": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Catherine CARPENTIER"
+  },
+  "95214": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Emmanuel DE NOAILLES"
+  },
+  "95014": {
+   "canton_code": "9515",
+   "canton_nom": "Montmorency",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Alexandre LEGAL"
+  },
+  "95110": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Bertrand LACHAISE"
+  },
+  "95539": {
+   "canton_code": "9506",
+   "canton_nom": "Deuil-la-Barre",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Virginie PREHOUBERT"
+  },
+  "95627": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Philippe FABREGES"
+  },
+  "95056": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Delphine DRAPEAU"
+  },
+  "95352": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Michel MANSOUX"
+  },
+  "95351": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Eddy THOREAU"
+  },
+  "95462": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Denys DE MAGNITOT"
+  },
+  "95491": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Régis PAIN"
+  },
+  "95369": {
+   "canton_code": "9515",
+   "canton_nom": "Montmorency",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Thierry BRUN"
+  },
+  "95042": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Delphine BONFANTI"
+  },
+  "95582": {
+   "canton_code": "9501",
+   "canton_nom": "Argenteuil-1",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Nicolas PONCHEL"
+  },
+  "95052": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jean-Michel APARICIO"
+  },
+  "95060": {
+   "canton_code": "9519",
+   "canton_nom": "Taverny",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Laurianne DUGLÉ DANGUILHEN"
+  },
+  "95438": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Philippe HOUDAILLE"
+  },
+  "95288": {
+   "canton_code": "9506",
+   "canton_nom": "Deuil-la-Barre",
+   "circos": [
+    "95007"
+   ],
+   "maire": "François JEFFROY"
+  },
+  "95254": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Grégoire BOUILLIANT"
+  },
+  "95353": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Jean-Christophe MAZURIER"
+  },
+  "95424": {
+   "canton_code": "9513",
+   "canton_nom": "Herblay-sur-Seine",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Miloud GOUAL"
+  },
+  "95258": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Stéphan LAZAROFF"
+  },
+  "95150": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Michaël ROLLOIS"
+  },
+  "95426": {
+   "canton_code": "9515",
+   "canton_nom": "Montmorency",
+   "circos": [
+    "95004"
+   ],
+   "maire": "Sylvie JACQUIN"
+  },
+  "95652": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Hugues BRISSAUD"
+  },
+  "95298": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Olivier BIRON"
+  },
+  "95555": {
+   "canton_code": "9501",
+   "canton_nom": "Argenteuil-1",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Julien BACHARD"
+  },
+  "95019": {
+   "canton_code": "9511",
+   "canton_nom": "Garges-lès-Gonesse",
+   "circos": [
+    "95008"
+   ],
+   "maire": "Pascal DOLL"
+  },
+  "95580": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Nadège FERTÉ"
+  },
+  "95392": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Jérôme FRANCOIS"
+  },
+  "95625": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jhony BOURGIN"
+  },
+  "95612": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Fabio LUNAZZI"
+  },
+  "95379": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Didier VERMEIRE"
+  },
+  "95280": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Abdelaziz HAMIDA"
+  },
+  "95054": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Ludovic BAZOT"
+  },
+  "95211": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Matthieu LAURENT"
+  },
+  "95445": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Philippe VAN HYFTE"
+  },
+  "95452": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Martine LEGRAND"
+  },
+  "95541": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Christophe DEPONT"
+  },
+  "95584": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Florent AMBROSINO"
+  },
+  "95127": {
+   "canton_code": "9599",
+   "canton_nom": "Cergy",
+   "circos": [
+    "95002",
+    "95010"
+   ],
+   "maire": "Jean-Paul JEANDON"
+  },
+  "95212": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Karine GAILLARD"
+  },
+  "95509": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Séjiane RENÉ"
+  },
+  "95592": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Candice ENEE"
+  },
+  "95594": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95002"
+   ],
+   "maire": "Véronique MAGNIER"
+  },
+  "95301": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jean-Yves BOUQUEREL"
+  },
+  "95059": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Isabelle JONCOUR-DANEL"
+  },
+  "95151": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Olivier ROBINOT"
+  },
+  "95607": {
+   "canton_code": "9519",
+   "canton_nom": "Taverny",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Florence PORTELLI"
+  },
+  "95169": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Damien RADET"
+  },
+  "95341": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "François DANCONNIER"
+  },
+  "95306": {
+   "canton_code": "9513",
+   "canton_nom": "Herblay-sur-Seine",
+   "circos": [
+    "95003"
+   ],
+   "maire": "Philippe ROULEAU"
+  },
+  "95055": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Célia DELAHAYE"
+  },
+  "95371": {
+   "canton_code": "9512",
+   "canton_nom": "Goussainville",
+   "circos": [
+    "95009"
+   ],
+   "maire": "André SPECQ"
+  },
+  "95024": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Bernard TÊTU"
+  },
+  "95210": {
+   "canton_code": "9515",
+   "canton_nom": "Montmorency",
+   "circos": [
+    "95006"
+   ],
+   "maire": "Philippe SUEUR"
+  },
+  "95213": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Brahim MOHA"
+  },
+  "95101": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Corine BEAUFILS"
+  },
+  "95682": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Cyril DIARRA"
+  },
+  "95023": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Frederic GODIN"
+  },
+  "95476": {
+   "canton_code": "9504",
+   "canton_nom": "Cergy-1",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Laurent ACHITE-HENNI"
+  },
+  "95199": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Frédéric BOURDIN"
+  },
+  "95633": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Bruno REGAERT"
+  },
+  "95489": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Sandrine DRUON-RIOT"
+  },
+  "95304": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Eric COUPPE"
+  },
+  "95611": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Jérémy PENTHER"
+  },
+  "95563": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95004"
+   ],
+   "maire": "Loïc VIDAL"
+  },
+  "95074": {
+   "canton_code": "9505",
+   "canton_nom": "Cergy-2",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Stéphanie CHORIN"
+  },
+  "95316": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Jacqueline HOLLINGER"
+  },
+  "95328": {
+   "canton_code": "9517",
+   "canton_nom": "Saint-Ouen-l'Aumône",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Alain DEVILLEBICHOT"
+  },
+  "95483": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Gregory LEOST"
+  },
+  "95395": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Martine BIDEL"
+  },
+  "95116": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Bernard LE BON"
+  },
+  "95241": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Hasan KARADAG"
+  },
+  "95181": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Christophe ROCHE"
+  },
+  "95492": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Fernando DE SOUSA"
+  },
+  "95535": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Guy PARIS"
+  },
+  "95436": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Olivier LESUEUR"
+  },
+  "95574": {
+   "canton_code": "9507",
+   "canton_nom": "Domont",
+   "circos": [
+    "95004"
+   ],
+   "maire": "Daniel KAYAL"
+  },
+  "95271": {
+   "canton_code": "9516",
+   "canton_nom": "Pontoise",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Olivier DESLANDES"
+  },
+  "95094": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Francis MALLARD"
+  },
+  "95429": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Brigitte PINCHON"
+  },
+  "95323": {
+   "canton_code": "9505",
+   "canton_nom": "Cergy-2",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Hervé FLORCZAK"
+  },
+  "95028": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Yves CITERNE"
+  },
+  "95183": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95010"
+   ],
+   "maire": "Sophie MATHARAN"
+  },
+  "95252": {
+   "canton_code": "9510",
+   "canton_nom": "Franconville",
+   "circos": [
+    "95004"
+   ],
+   "maire": "Xavier MELKI"
+  },
+  "95295": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Agnès BERNARD"
+  },
+  "95527": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Michèle CALIX"
+  },
+  "95487": {
+   "canton_code": "9514",
+   "canton_nom": "L'Isle-Adam",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Valentin RATIEUVILLE"
+  },
+  "95277": {
+   "canton_code": "9521",
+   "canton_nom": "Villiers-le-Bel",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Cédric SABOURET"
+  },
+  "95205": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95007"
+   ],
+   "maire": "Catherine DELPRAT"
+  },
+  "95554": {
+   "canton_code": "9520",
+   "canton_nom": "Vauréal",
+   "circos": [
+    "95001"
+   ],
+   "maire": "Florence BINAUX LE CLECH"
+  },
+  "95493": {
+   "canton_code": "9509",
+   "canton_nom": "Fosses",
+   "circos": [
+    "95009"
+   ],
+   "maire": "Patrick FAUVIN"
+  }
+ }
+}
