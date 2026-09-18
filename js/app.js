@@ -1,4 +1,4 @@
-const state={policeZone:true,gendarmerieZone:true,commissariats:true,brigades:true,pompiers:true,cspPolice:true,communes:[],competences:new Map(),services:[],territory:null,markers:[],elus:null,csp:null,cspLayer:null,communeCsp:new Map()};
+const state={policeZone:false,gendarmerieZone:false,commissariats:false,brigades:false,pompiers:false,cspPolice:false,communes:[],competences:new Map(),services:[],territory:null,markers:[],elus:null,csp:null,cspLayer:null,communeCsp:new Map()};
 function pointInRing(pt,ring){let inside=false;for(let i=0,j=ring.length-1;i<ring.length;j=i++){const xi=ring[i][0],yi=ring[i][1],xj=ring[j][0],yj=ring[j][1];const intersect=((yi>pt[1])!==(yj>pt[1]))&&(pt[0]<(xj-xi)*(pt[1]-yi)/(yj-yi)+xi);if(intersect)inside=!inside}return inside}
 function pointInPolygon(pt,rings){if(!pointInRing(pt,rings[0]))return false;for(let k=1;k<rings.length;k++)if(pointInRing(pt,rings[k]))return false;return true}
 function pointInGeometry(pt,geom){return geom.type==="Polygon"?pointInPolygon(pt,geom.coordinates):geom.coordinates.some(poly=>pointInPolygon(pt,poly))}
