@@ -175,7 +175,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Didier DAGONET"
+   "maire": "Didier DAGONET",
+   "arrondissement": "953"
   },
   "95572": {
    "canton_code": "9517",
@@ -183,7 +184,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Laurent LINQUETTE"
+   "maire": "Laurent LINQUETTE",
+   "arrondissement": "953"
   },
   "95141": {
    "canton_code": "9520",
@@ -191,7 +193,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Rodolphe THOMASSIN"
+   "maire": "Rodolphe THOMASSIN",
+   "arrondissement": "953"
   },
   "95488": {
    "canton_code": "9519",
@@ -199,7 +202,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Eric BOSC"
+   "maire": "Eric BOSC",
+   "arrondissement": "951"
   },
   "95091": {
    "canton_code": "9507",
@@ -207,7 +211,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Karine OKONSKI"
+   "maire": "Karine OKONSKI",
+   "arrondissement": "952"
   },
   "95197": {
    "canton_code": "9506",
@@ -215,7 +220,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Muriel SCOLAN"
+   "maire": "Muriel SCOLAN",
+   "arrondissement": "952"
   },
   "95430": {
    "canton_code": "9507",
@@ -223,7 +229,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Silvio BIELLO"
+   "maire": "Silvio BIELLO",
+   "arrondissement": "952"
   },
   "95170": {
    "canton_code": "9520",
@@ -231,7 +238,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Michel FINET"
+   "maire": "Michel FINET",
+   "arrondissement": "953"
   },
   "95678": {
    "canton_code": "9514",
@@ -239,7 +247,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Vincent BARRAILLER"
+   "maire": "Vincent BARRAILLER",
+   "arrondissement": "953"
   },
   "95660": {
    "canton_code": "9509",
@@ -247,7 +256,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Patrice ROBIN"
+   "maire": "Patrice ROBIN",
+   "arrondissement": "952"
   },
   "95543": {
    "canton_code": "9520",
@@ -255,7 +265,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Bruno MARAIS"
+   "maire": "Bruno MARAIS",
+   "arrondissement": "953"
   },
   "95637": {
    "canton_code": "9520",
@@ -263,7 +274,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Raphaël LANTERI"
+   "maire": "Raphaël LANTERI",
+   "arrondissement": "953"
   },
   "95447": {
    "canton_code": "9516",
@@ -271,7 +283,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jérôme OLIVIER"
+   "maire": "Jérôme OLIVIER",
+   "arrondissement": "953"
   },
   "95039": {
    "canton_code": "9517",
@@ -279,7 +292,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Isabelle MÉZIÈRES"
+   "maire": "Isabelle MÉZIÈRES",
+   "arrondissement": "953"
   },
   "95658": {
    "canton_code": "9520",
@@ -287,7 +301,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Vanessa LEGAIGNEUR"
+   "maire": "Vanessa LEGAIGNEUR",
+   "arrondissement": "953"
   },
   "95480": {
    "canton_code": "9514",
@@ -295,7 +310,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Loïc TAILLANTER"
+   "maire": "Loïc TAILLANTER",
+   "arrondissement": "953"
   },
   "95282": {
    "circos": [
@@ -308,7 +324,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Sébastien DRUART"
+   "maire": "Sébastien DRUART",
+   "arrondissement": "953"
   },
   "95641": {
    "canton_code": "9512",
@@ -316,7 +333,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Farid BENABDELAZIZ"
+   "maire": "Farid BENABDELAZIZ",
+   "arrondissement": "952"
   },
   "95690": {
    "canton_code": "9520",
@@ -324,7 +342,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Laurent BOSSU"
+   "maire": "Laurent BOSSU",
+   "arrondissement": "953"
   },
   "95051": {
    "canton_code": "9519",
@@ -332,7 +351,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Françoise NORDMANN"
+   "maire": "Françoise NORDMANN",
+   "arrondissement": "951"
   },
   "95388": {
    "canton_code": "9520",
@@ -340,7 +360,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Catherine RENAUD"
+   "maire": "Catherine RENAUD",
+   "arrondissement": "953"
   },
   "95604": {
    "canton_code": "9512",
@@ -348,7 +369,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Adeline ROLDAO"
+   "maire": "Adeline ROLDAO",
+   "arrondissement": "952"
   },
   "95177": {
    "canton_code": "9516",
@@ -356,7 +378,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Vincent IBRELISLE"
+   "maire": "Vincent IBRELISLE",
+   "arrondissement": "953"
   },
   "95656": {
    "canton_code": "9520",
@@ -364,7 +387,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Serge BILLOUÉ"
+   "maire": "Serge BILLOUÉ",
+   "arrondissement": "953"
   },
   "95504": {
    "canton_code": "9514",
@@ -372,7 +396,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Céline CAUDRON"
+   "maire": "Céline CAUDRON",
+   "arrondissement": "953"
   },
   "95268": {
    "canton_code": "9511",
@@ -380,7 +405,8 @@
    "circos": [
     "95008"
    ],
-   "maire": "Benoît JIMENEZ"
+   "maire": "Benoît JIMENEZ",
+   "arrondissement": "952"
   },
   "95676": {
    "canton_code": "9520",
@@ -388,7 +414,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jean-François Christian RENARD"
+   "maire": "Jean-François Christian RENARD",
+   "arrondissement": "953"
   },
   "95680": {
    "canton_code": "9521",
@@ -396,7 +423,8 @@
    "circos": [
     "95008"
    ],
-   "maire": "Djida TECHTACH"
+   "maire": "Djida TECHTACH",
+   "arrondissement": "952"
   },
   "95348": {
    "canton_code": "9520",
@@ -404,7 +432,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Norbert LALLOYER"
+   "maire": "Norbert LALLOYER",
+   "arrondissement": "953"
   },
   "95313": {
    "canton_code": "9514",
@@ -412,7 +441,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Sébastien PONIATOWSKI"
+   "maire": "Sébastien PONIATOWSKI",
+   "arrondissement": "953"
   },
   "95154": {
    "canton_code": "9512",
@@ -420,7 +450,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Eric PLASMANS"
+   "maire": "Eric PLASMANS",
+   "arrondissement": "952"
   },
   "95387": {
    "canton_code": "9516",
@@ -428,7 +459,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Christian PION"
+   "maire": "Christian PION",
+   "arrondissement": "953"
   },
   "95628": {
    "canton_code": "9517",
@@ -436,7 +468,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Laurent DE GAULLE"
+   "maire": "Laurent DE GAULLE",
+   "arrondissement": "953"
   },
   "95422": {
    "canton_code": "9516",
@@ -444,7 +477,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Rémi LEPAPE"
+   "maire": "Rémi LEPAPE",
+   "arrondissement": "953"
   },
   "95166": {
    "canton_code": "9520",
@@ -452,7 +486,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "René PANNIER"
+   "maire": "René PANNIER",
+   "arrondissement": "953"
   },
   "95008": {
    "canton_code": "9520",
@@ -460,7 +495,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jean-Bernard TECHER"
+   "maire": "Jean-Bernard TECHER",
+   "arrondissement": "953"
   },
   "95102": {
    "canton_code": "9516",
@@ -468,7 +504,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Christophe BENOIST POUTEAU"
+   "maire": "Christophe BENOIST POUTEAU",
+   "arrondissement": "953"
   },
   "95331": {
    "canton_code": "9509",
@@ -476,7 +513,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Gilbert MAUGAN"
+   "maire": "Gilbert MAUGAN",
+   "arrondissement": "952"
   },
   "95303": {
    "canton_code": "9516",
@@ -484,7 +522,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Maurice DELAHAYE"
+   "maire": "Maurice DELAHAYE",
+   "arrondissement": "953"
   },
   "95446": {
    "canton_code": "9517",
@@ -492,7 +531,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Christophe BUATOIS"
+   "maire": "Christophe BUATOIS",
+   "arrondissement": "953"
   },
   "95120": {
    "canton_code": "9517",
@@ -500,7 +540,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Claude NOËL"
+   "maire": "Claude NOËL",
+   "arrondissement": "953"
   },
   "95078": {
    "canton_code": "9516",
@@ -508,7 +549,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Paul DUBRAY"
+   "maire": "Paul DUBRAY",
+   "arrondissement": "953"
   },
   "95012": {
    "canton_code": "9520",
@@ -516,7 +558,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Frédérique CAMBOURIEUX"
+   "maire": "Frédérique CAMBOURIEUX",
+   "arrondissement": "953"
   },
   "95088": {
    "canton_code": "9521",
@@ -524,7 +567,8 @@
    "circos": [
     "95008"
    ],
-   "maire": "Abdellah BENOUARET"
+   "maire": "Abdellah BENOUARET",
+   "arrondissement": "952"
   },
   "95459": {
    "canton_code": "9516",
@@ -532,7 +576,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Ghislaine JOURNÉE"
+   "maire": "Ghislaine JOURNÉE",
+   "arrondissement": "953"
   },
   "95203": {
    "canton_code": "9508",
@@ -540,7 +585,8 @@
    "circos": [
     "95004"
    ],
-   "maire": "Marie-José BEAULANDE"
+   "maire": "Marie-José BEAULANDE",
+   "arrondissement": "951"
   },
   "95529": {
    "canton_code": "9514",
@@ -548,7 +594,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Patrick PRÉMEL"
+   "maire": "Patrick PRÉMEL",
+   "arrondissement": "953"
   },
   "95142": {
    "canton_code": "9516",
@@ -556,7 +603,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Nicolas BELANGÉ"
+   "maire": "Nicolas BELANGÉ",
+   "arrondissement": "953"
   },
   "95355": {
    "canton_code": "9520",
@@ -564,7 +612,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Luc PUECH D'ALISSAC"
+   "maire": "Luc PUECH D'ALISSAC",
+   "arrondissement": "953"
   },
   "95134": {
    "canton_code": "9514",
@@ -572,7 +621,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Stéphane CARTEADO"
+   "maire": "Stéphane CARTEADO",
+   "arrondissement": "953"
   },
   "95176": {
    "canton_code": "9510",
@@ -580,7 +630,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Yannick BOËDEC"
+   "maire": "Yannick BOËDEC",
+   "arrondissement": "951"
   },
   "95257": {
    "canton_code": "9513",
@@ -588,7 +639,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Philippe AUDEBERT"
+   "maire": "Philippe AUDEBERT",
+   "arrondissement": "951"
   },
   "95270": {
    "canton_code": "9520",
@@ -596,7 +648,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jean-Marc LALANNE"
+   "maire": "Jean-Marc LALANNE",
+   "arrondissement": "953"
   },
   "95566": {
    "canton_code": "9509",
@@ -604,7 +657,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Nathalie BENYAHIA"
+   "maire": "Nathalie BENYAHIA",
+   "arrondissement": "952"
   },
   "95011": {
    "canton_code": "9520",
@@ -612,7 +666,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Martine SOREL"
+   "maire": "Martine SOREL",
+   "arrondissement": "953"
   },
   "95139": {
    "canton_code": "9520",
@@ -620,7 +675,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Laurent ASTRUC"
+   "maire": "Laurent ASTRUC",
+   "arrondissement": "953"
   },
   "95500": {
    "canton_code": "9516",
@@ -628,7 +684,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Stéphanie VON EUW"
+   "maire": "Stéphanie VON EUW",
+   "arrondissement": "953"
   },
   "95394": {
    "canton_code": "9517",
@@ -636,7 +693,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Pierre-Édouard EON"
+   "maire": "Pierre-Édouard EON",
+   "arrondissement": "953"
   },
   "95149": {
    "canton_code": "9509",
@@ -644,7 +702,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Sylvain SARAGOSA"
+   "maire": "Sylvain SARAGOSA",
+   "arrondissement": "952"
   },
   "95675": {
    "canton_code": "9512",
@@ -652,7 +711,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Dominique KUDLA"
+   "maire": "Dominique KUDLA",
+   "arrondissement": "952"
   },
   "95308": {
    "canton_code": "9517",
@@ -660,7 +720,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Eric BAERT"
+   "maire": "Eric BAERT",
+   "arrondissement": "953"
   },
   "95002": {
    "canton_code": "9516",
@@ -668,7 +729,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Patrick PELLETIER"
+   "maire": "Patrick PELLETIER",
+   "arrondissement": "953"
   },
   "95427": {
    "canton_code": "9506",
@@ -676,7 +738,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Belkacem CHIKH"
+   "maire": "Belkacem CHIKH",
+   "arrondissement": "952"
   },
   "95370": {
    "canton_code": "9516",
@@ -684,7 +747,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Michel DÉJARDIN"
+   "maire": "Michel DÉJARDIN",
+   "arrondissement": "953"
   },
   "95428": {
    "canton_code": "9515",
@@ -692,7 +756,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Maxime THORY"
+   "maire": "Maxime THORY",
+   "arrondissement": "952"
   },
   "95018": {
    "canton_code": "9598",
@@ -700,7 +765,8 @@
    "circos": [
     "95005"
    ],
-   "maire": "Georges MOTHRON"
+   "maire": "Georges MOTHRON",
+   "arrondissement": "951"
   },
   "95229": {
    "canton_code": "9509",
@@ -708,7 +774,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Eric BATTAGLIA"
+   "maire": "Eric BATTAGLIA",
+   "arrondissement": "952"
   },
   "95651": {
    "canton_code": "9520",
@@ -716,7 +783,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Dominique HERPIN-POULENAT"
+   "maire": "Dominique HERPIN-POULENAT",
+   "arrondissement": "953"
   },
   "95058": {
    "canton_code": "9514",
@@ -724,7 +792,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Olivier ANTY"
+   "maire": "Olivier ANTY",
+   "arrondissement": "953"
   },
   "95157": {
    "canton_code": "9520",
@@ -732,7 +801,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Philippe VANDEPUTTE"
+   "maire": "Philippe VANDEPUTTE",
+   "arrondissement": "953"
   },
   "95063": {
    "canton_code": "9503",
@@ -740,7 +810,8 @@
    "circos": [
     "95005"
    ],
-   "maire": "Nessrine MENHAOUARA"
+   "maire": "Nessrine MENHAOUARA",
+   "arrondissement": "951"
   },
   "95119": {
    "canton_code": "9520",
@@ -748,7 +819,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jean-Pierre DORÉ"
+   "maire": "Jean-Pierre DORÉ",
+   "arrondissement": "953"
   },
   "95046": {
    "canton_code": "9520",
@@ -756,7 +828,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Bertrand FOUCAULT"
+   "maire": "Bertrand FOUCAULT",
+   "arrondissement": "953"
   },
   "95610": {
    "canton_code": "9520",
@@ -764,7 +837,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Denis SARGERET"
+   "maire": "Denis SARGERET",
+   "arrondissement": "953"
   },
   "95144": {
    "canton_code": "9509",
@@ -772,7 +846,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Romain RENAUD"
+   "maire": "Romain RENAUD",
+   "arrondissement": "952"
   },
   "95456": {
    "canton_code": "9514",
@@ -780,7 +855,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Catherine BORGNE"
+   "maire": "Catherine BORGNE",
+   "arrondissement": "953"
   },
   "95040": {
    "canton_code": "9520",
@@ -788,7 +864,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Nicolas PASTERNAK"
+   "maire": "Nicolas PASTERNAK",
+   "arrondissement": "953"
   },
   "95598": {
    "canton_code": "9515",
@@ -796,7 +873,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Nicolas NAUDET"
+   "maire": "Nicolas NAUDET",
+   "arrondissement": "952"
   },
   "95026": {
    "canton_code": "9514",
@@ -804,7 +882,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Éric THERRY"
+   "maire": "Éric THERRY",
+   "arrondissement": "952"
   },
   "95523": {
    "canton_code": "9520",
@@ -812,7 +891,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Capucine FAIVRE"
+   "maire": "Capucine FAIVRE",
+   "arrondissement": "953"
   },
   "95309": {
    "canton_code": "9520",
@@ -820,7 +900,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Eric BRETON"
+   "maire": "Eric BRETON",
+   "arrondissement": "953"
   },
   "95510": {
    "canton_code": "9504",
@@ -828,7 +909,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Thierry THOMASSIN"
+   "maire": "Thierry THOMASSIN",
+   "arrondissement": "953"
   },
   "95219": {
    "canton_code": "9508",
@@ -836,7 +918,8 @@
    "circos": [
     "95004"
    ],
-   "maire": "Xavier HAQUIN"
+   "maire": "Xavier HAQUIN",
+   "arrondissement": "951"
   },
   "95256": {
    "canton_code": "9517",
@@ -844,7 +927,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Martine BERNARD"
+   "maire": "Martine BERNARD",
+   "arrondissement": "951"
   },
   "95409": {
    "canton_code": "9507",
@@ -852,7 +936,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Véronique RIBOUT"
+   "maire": "Véronique RIBOUT",
+   "arrondissement": "952"
   },
   "95250": {
    "canton_code": "9509",
@@ -860,7 +945,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Jacqueline HAESINGER"
+   "maire": "Jacqueline HAESINGER",
+   "arrondissement": "952"
   },
   "95365": {
    "canton_code": "9509",
@@ -868,7 +954,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Chantal ROMAND"
+   "maire": "Chantal ROMAND",
+   "arrondissement": "952"
   },
   "95218": {
    "canton_code": "9505",
@@ -876,7 +963,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Thibault HUMBERT"
+   "maire": "Thibault HUMBERT",
+   "arrondissement": "953"
   },
   "95585": {
    "canton_code": "9518",
@@ -885,7 +973,8 @@
     "95007",
     "95008"
    ],
-   "maire": "Bassi KONATE"
+   "maire": "Bassi KONATE",
+   "arrondissement": "952"
   },
   "95253": {
    "canton_code": "9520",
@@ -893,7 +982,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Angélique LAGO"
+   "maire": "Angélique LAGO",
+   "arrondissement": "953"
   },
   "95287": {
    "canton_code": "9516",
@@ -901,7 +991,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Catherine CARPENTIER"
+   "maire": "Catherine CARPENTIER",
+   "arrondissement": "953"
   },
   "95214": {
    "canton_code": "9509",
@@ -909,7 +1000,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Emmanuel DE NOAILLES"
+   "maire": "Emmanuel DE NOAILLES",
+   "arrondissement": "952"
   },
   "95014": {
    "canton_code": "9515",
@@ -917,7 +1009,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Alexandre LEGAL"
+   "maire": "Alexandre LEGAL",
+   "arrondissement": "952"
   },
   "95110": {
    "canton_code": "9516",
@@ -925,7 +1018,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Bertrand LACHAISE"
+   "maire": "Bertrand LACHAISE",
+   "arrondissement": "953"
   },
   "95539": {
    "canton_code": "9506",
@@ -933,7 +1027,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Virginie PREHOUBERT"
+   "maire": "Virginie PREHOUBERT",
+   "arrondissement": "952"
   },
   "95627": {
    "canton_code": "9516",
@@ -941,7 +1036,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Philippe FABREGES"
+   "maire": "Philippe FABREGES",
+   "arrondissement": "953"
   },
   "95056": {
    "canton_code": "9509",
@@ -949,7 +1045,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Delphine DRAPEAU"
+   "maire": "Delphine DRAPEAU",
+   "arrondissement": "952"
   },
   "95352": {
    "canton_code": "9509",
@@ -957,7 +1054,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Michel MANSOUX"
+   "maire": "Michel MANSOUX",
+   "arrondissement": "952"
   },
   "95351": {
    "canton_code": "9512",
@@ -965,7 +1063,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Eddy THOREAU"
+   "maire": "Eddy THOREAU",
+   "arrondissement": "952"
   },
   "95462": {
    "canton_code": "9520",
@@ -973,7 +1072,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Denys DE MAGNITOT"
+   "maire": "Denys DE MAGNITOT",
+   "arrondissement": "953"
   },
   "95491": {
    "canton_code": "9507",
@@ -981,7 +1081,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Régis PAIN"
+   "maire": "Régis PAIN",
+   "arrondissement": "951"
   },
   "95369": {
    "canton_code": "9515",
@@ -989,7 +1090,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Thierry BRUN"
+   "maire": "Thierry BRUN",
+   "arrondissement": "952"
   },
   "95042": {
    "canton_code": "9507",
@@ -997,7 +1099,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Delphine BONFANTI"
+   "maire": "Delphine BONFANTI",
+   "arrondissement": "952"
   },
   "95582": {
    "canton_code": "9501",
@@ -1005,7 +1108,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Nicolas PONCHEL"
+   "maire": "Nicolas PONCHEL",
+   "arrondissement": "951"
   },
   "95052": {
    "canton_code": "9514",
@@ -1013,7 +1117,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jean-Michel APARICIO"
+   "maire": "Jean-Michel APARICIO",
+   "arrondissement": "953"
   },
   "95060": {
    "canton_code": "9519",
@@ -1021,7 +1126,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Laurianne DUGLÉ DANGUILHEN"
+   "maire": "Laurianne DUGLÉ DANGUILHEN",
+   "arrondissement": "951"
   },
   "95438": {
    "canton_code": "9516",
@@ -1029,7 +1135,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Philippe HOUDAILLE"
+   "maire": "Philippe HOUDAILLE",
+   "arrondissement": "953"
   },
   "95288": {
    "canton_code": "9506",
@@ -1037,7 +1144,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "François JEFFROY"
+   "maire": "François JEFFROY",
+   "arrondissement": "952"
   },
   "95254": {
    "canton_code": "9516",
@@ -1045,7 +1153,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Grégoire BOUILLIANT"
+   "maire": "Grégoire BOUILLIANT",
+   "arrondissement": "953"
   },
   "95353": {
    "canton_code": "9509",
@@ -1053,7 +1162,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Jean-Christophe MAZURIER"
+   "maire": "Jean-Christophe MAZURIER",
+   "arrondissement": "952"
   },
   "95424": {
    "canton_code": "9513",
@@ -1061,7 +1171,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Miloud GOUAL"
+   "maire": "Miloud GOUAL",
+   "arrondissement": "951"
   },
   "95258": {
    "canton_code": "9517",
@@ -1069,7 +1180,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Stéphan LAZAROFF"
+   "maire": "Stéphan LAZAROFF",
+   "arrondissement": "953"
   },
   "95150": {
    "canton_code": "9520",
@@ -1077,7 +1189,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Michaël ROLLOIS"
+   "maire": "Michaël ROLLOIS",
+   "arrondissement": "953"
   },
   "95426": {
    "canton_code": "9515",
@@ -1085,7 +1198,8 @@
    "circos": [
     "95004"
    ],
-   "maire": "Sylvie JACQUIN"
+   "maire": "Sylvie JACQUIN",
+   "arrondissement": "952"
   },
   "95652": {
    "canton_code": "9509",
@@ -1093,7 +1207,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Hugues BRISSAUD"
+   "maire": "Hugues BRISSAUD",
+   "arrondissement": "952"
   },
   "95298": {
    "canton_code": "9516",
@@ -1101,7 +1216,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Olivier BIRON"
+   "maire": "Olivier BIRON",
+   "arrondissement": "953"
   },
   "95555": {
    "canton_code": "9501",
@@ -1109,7 +1225,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Julien BACHARD"
+   "maire": "Julien BACHARD",
+   "arrondissement": "952"
   },
   "95019": {
    "canton_code": "9511",
@@ -1117,7 +1234,8 @@
    "circos": [
     "95008"
    ],
-   "maire": "Pascal DOLL"
+   "maire": "Pascal DOLL",
+   "arrondissement": "952"
   },
   "95580": {
    "canton_code": "9512",
@@ -1125,7 +1243,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Nadège FERTÉ"
+   "maire": "Nadège FERTÉ",
+   "arrondissement": "952"
   },
   "95392": {
    "canton_code": "9517",
@@ -1133,7 +1252,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Jérôme FRANCOIS"
+   "maire": "Jérôme FRANCOIS",
+   "arrondissement": "953"
   },
   "95625": {
    "canton_code": "9516",
@@ -1141,7 +1261,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jhony BOURGIN"
+   "maire": "Jhony BOURGIN",
+   "arrondissement": "953"
   },
   "95612": {
    "canton_code": "9521",
@@ -1149,7 +1270,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Fabio LUNAZZI"
+   "maire": "Fabio LUNAZZI",
+   "arrondissement": "952"
   },
   "95379": {
    "canton_code": "9520",
@@ -1157,7 +1279,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Didier VERMEIRE"
+   "maire": "Didier VERMEIRE",
+   "arrondissement": "953"
   },
   "95280": {
    "canton_code": "9512",
@@ -1165,7 +1288,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Abdelaziz HAMIDA"
+   "maire": "Abdelaziz HAMIDA",
+   "arrondissement": "952"
   },
   "95054": {
    "canton_code": "9516",
@@ -1173,7 +1297,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Ludovic BAZOT"
+   "maire": "Ludovic BAZOT",
+   "arrondissement": "953"
   },
   "95211": {
    "canton_code": "9516",
@@ -1181,7 +1306,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Matthieu LAURENT"
+   "maire": "Matthieu LAURENT",
+   "arrondissement": "953"
   },
   "95445": {
    "canton_code": "9514",
@@ -1189,7 +1315,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Philippe VAN HYFTE"
+   "maire": "Philippe VAN HYFTE",
+   "arrondissement": "953"
   },
   "95452": {
    "canton_code": "9514",
@@ -1197,7 +1324,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Martine LEGRAND"
+   "maire": "Martine LEGRAND",
+   "arrondissement": "953"
   },
   "95541": {
    "canton_code": "9520",
@@ -1205,7 +1333,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Christophe DEPONT"
+   "maire": "Christophe DEPONT",
+   "arrondissement": "953"
   },
   "95584": {
    "canton_code": "9516",
@@ -1213,7 +1342,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Florent AMBROSINO"
+   "maire": "Florent AMBROSINO",
+   "arrondissement": "953"
   },
   "95127": {
    "canton_code": "9599",
@@ -1222,7 +1352,8 @@
     "95002",
     "95010"
    ],
-   "maire": "Jean-Paul JEANDON"
+   "maire": "Jean-Paul JEANDON",
+   "arrondissement": "953"
   },
   "95212": {
    "canton_code": "9512",
@@ -1230,7 +1361,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Karine GAILLARD"
+   "maire": "Karine GAILLARD",
+   "arrondissement": "952"
   },
   "95509": {
    "canton_code": "9509",
@@ -1238,7 +1370,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Séjiane RENÉ"
+   "maire": "Séjiane RENÉ",
+   "arrondissement": "952"
   },
   "95592": {
    "canton_code": "9520",
@@ -1246,7 +1379,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Candice ENEE"
+   "maire": "Candice ENEE",
+   "arrondissement": "953"
   },
   "95594": {
    "canton_code": "9509",
@@ -1254,7 +1388,8 @@
    "circos": [
     "95002"
    ],
-   "maire": "Véronique MAGNIER"
+   "maire": "Véronique MAGNIER",
+   "arrondissement": "952"
   },
   "95301": {
    "canton_code": "9520",
@@ -1262,7 +1397,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jean-Yves BOUQUEREL"
+   "maire": "Jean-Yves BOUQUEREL",
+   "arrondissement": "953"
   },
   "95059": {
    "canton_code": "9516",
@@ -1270,7 +1406,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Isabelle JONCOUR-DANEL"
+   "maire": "Isabelle JONCOUR-DANEL",
+   "arrondissement": "953"
   },
   "95151": {
    "canton_code": "9507",
@@ -1278,7 +1415,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Olivier ROBINOT"
+   "maire": "Olivier ROBINOT",
+   "arrondissement": "953"
   },
   "95607": {
    "canton_code": "9519",
@@ -1286,7 +1424,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Florence PORTELLI"
+   "maire": "Florence PORTELLI",
+   "arrondissement": "951"
   },
   "95169": {
    "canton_code": "9516",
@@ -1294,7 +1433,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Damien RADET"
+   "maire": "Damien RADET",
+   "arrondissement": "953"
   },
   "95341": {
    "canton_code": "9516",
@@ -1302,7 +1442,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "François DANCONNIER"
+   "maire": "François DANCONNIER",
+   "arrondissement": "953"
   },
   "95306": {
    "canton_code": "9513",
@@ -1310,7 +1451,8 @@
    "circos": [
     "95003"
    ],
-   "maire": "Philippe ROULEAU"
+   "maire": "Philippe ROULEAU",
+   "arrondissement": "951"
   },
   "95055": {
    "canton_code": "9509",
@@ -1318,7 +1460,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Célia DELAHAYE"
+   "maire": "Célia DELAHAYE",
+   "arrondissement": "952"
   },
   "95371": {
    "canton_code": "9512",
@@ -1326,7 +1469,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "André SPECQ"
+   "maire": "André SPECQ",
+   "arrondissement": "952"
   },
   "95024": {
    "canton_code": "9520",
@@ -1334,7 +1478,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Bernard TÊTU"
+   "maire": "Bernard TÊTU",
+   "arrondissement": "953"
   },
   "95210": {
    "canton_code": "9515",
@@ -1342,7 +1487,8 @@
    "circos": [
     "95006"
    ],
-   "maire": "Philippe SUEUR"
+   "maire": "Philippe SUEUR",
+   "arrondissement": "952"
   },
   "95213": {
    "canton_code": "9516",
@@ -1350,7 +1496,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Brahim MOHA"
+   "maire": "Brahim MOHA",
+   "arrondissement": "953"
   },
   "95101": {
    "canton_code": "9520",
@@ -1358,7 +1505,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Corine BEAUFILS"
+   "maire": "Corine BEAUFILS",
+   "arrondissement": "953"
   },
   "95682": {
    "canton_code": "9509",
@@ -1366,7 +1514,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Cyril DIARRA"
+   "maire": "Cyril DIARRA",
+   "arrondissement": "952"
   },
   "95023": {
    "canton_code": "9516",
@@ -1374,7 +1523,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Frederic GODIN"
+   "maire": "Frederic GODIN",
+   "arrondissement": "953"
   },
   "95476": {
    "canton_code": "9504",
@@ -1382,7 +1532,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Laurent ACHITE-HENNI"
+   "maire": "Laurent ACHITE-HENNI",
+   "arrondissement": "953"
   },
   "95199": {
    "canton_code": "9507",
@@ -1390,7 +1541,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Frédéric BOURDIN"
+   "maire": "Frédéric BOURDIN",
+   "arrondissement": "952"
   },
   "95633": {
    "canton_code": "9521",
@@ -1398,7 +1550,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Bruno REGAERT"
+   "maire": "Bruno REGAERT",
+   "arrondissement": "952"
   },
   "95489": {
    "canton_code": "9507",
@@ -1406,7 +1559,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Sandrine DRUON-RIOT"
+   "maire": "Sandrine DRUON-RIOT",
+   "arrondissement": "952"
   },
   "95304": {
    "canton_code": "9517",
@@ -1414,7 +1568,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Eric COUPPE"
+   "maire": "Eric COUPPE",
+   "arrondissement": "953"
   },
   "95611": {
    "canton_code": "9516",
@@ -1422,7 +1577,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Jérémy PENTHER"
+   "maire": "Jérémy PENTHER",
+   "arrondissement": "953"
   },
   "95563": {
    "canton_code": "9507",
@@ -1430,7 +1586,8 @@
    "circos": [
     "95004"
    ],
-   "maire": "Loïc VIDAL"
+   "maire": "Loïc VIDAL",
+   "arrondissement": "951"
   },
   "95074": {
    "canton_code": "9505",
@@ -1438,7 +1595,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Stéphanie CHORIN"
+   "maire": "Stéphanie CHORIN",
+   "arrondissement": "953"
   },
   "95316": {
    "canton_code": "9509",
@@ -1446,7 +1604,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Jacqueline HOLLINGER"
+   "maire": "Jacqueline HOLLINGER",
+   "arrondissement": "952"
   },
   "95328": {
    "canton_code": "9517",
@@ -1454,7 +1613,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Alain DEVILLEBICHOT"
+   "maire": "Alain DEVILLEBICHOT",
+   "arrondissement": "953"
   },
   "95483": {
    "canton_code": "9516",
@@ -1462,7 +1622,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Gregory LEOST"
+   "maire": "Gregory LEOST",
+   "arrondissement": "953"
   },
   "95395": {
    "canton_code": "9509",
@@ -1470,7 +1631,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Martine BIDEL"
+   "maire": "Martine BIDEL",
+   "arrondissement": "952"
   },
   "95116": {
    "canton_code": "9514",
@@ -1478,7 +1640,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Bernard LE BON"
+   "maire": "Bernard LE BON",
+   "arrondissement": "953"
   },
   "95241": {
    "canton_code": "9509",
@@ -1486,7 +1649,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Hasan KARADAG"
+   "maire": "Hasan KARADAG",
+   "arrondissement": "952"
   },
   "95181": {
    "canton_code": "9516",
@@ -1494,7 +1658,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Christophe ROCHE"
+   "maire": "Christophe ROCHE",
+   "arrondissement": "953"
   },
   "95492": {
    "canton_code": "9509",
@@ -1502,7 +1667,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Fernando DE SOUSA"
+   "maire": "Fernando DE SOUSA",
+   "arrondissement": "952"
   },
   "95535": {
    "canton_code": "9520",
@@ -1510,7 +1676,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Guy PARIS"
+   "maire": "Guy PARIS",
+   "arrondissement": "953"
   },
   "95436": {
    "canton_code": "9514",
@@ -1518,7 +1685,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Olivier LESUEUR"
+   "maire": "Olivier LESUEUR",
+   "arrondissement": "953"
   },
   "95574": {
    "canton_code": "9507",
@@ -1526,7 +1694,8 @@
    "circos": [
     "95004"
    ],
-   "maire": "Daniel KAYAL"
+   "maire": "Daniel KAYAL",
+   "arrondissement": "952"
   },
   "95271": {
    "canton_code": "9516",
@@ -1534,7 +1703,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Olivier DESLANDES"
+   "maire": "Olivier DESLANDES",
+   "arrondissement": "953"
   },
   "95094": {
    "canton_code": "9521",
@@ -1542,7 +1712,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Francis MALLARD"
+   "maire": "Francis MALLARD",
+   "arrondissement": "952"
   },
   "95429": {
    "canton_code": "9520",
@@ -1550,7 +1721,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Brigitte PINCHON"
+   "maire": "Brigitte PINCHON",
+   "arrondissement": "953"
   },
   "95323": {
    "canton_code": "9505",
@@ -1558,7 +1730,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Hervé FLORCZAK"
+   "maire": "Hervé FLORCZAK",
+   "arrondissement": "953"
   },
   "95028": {
    "canton_code": "9509",
@@ -1566,7 +1739,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Yves CITERNE"
+   "maire": "Yves CITERNE",
+   "arrondissement": "952"
   },
   "95183": {
    "canton_code": "9520",
@@ -1574,7 +1748,8 @@
    "circos": [
     "95010"
    ],
-   "maire": "Sophie MATHARAN"
+   "maire": "Sophie MATHARAN",
+   "arrondissement": "953"
   },
   "95252": {
    "canton_code": "9510",
@@ -1582,7 +1757,8 @@
    "circos": [
     "95004"
    ],
-   "maire": "Xavier MELKI"
+   "maire": "Xavier MELKI",
+   "arrondissement": "951"
   },
   "95295": {
    "canton_code": "9520",
@@ -1590,7 +1766,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Agnès BERNARD"
+   "maire": "Agnès BERNARD",
+   "arrondissement": "953"
   },
   "95527": {
    "canton_code": "9521",
@@ -1598,7 +1775,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Michèle CALIX"
+   "maire": "Michèle CALIX",
+   "arrondissement": "952"
   },
   "95487": {
    "canton_code": "9514",
@@ -1606,7 +1784,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Valentin RATIEUVILLE"
+   "maire": "Valentin RATIEUVILLE",
+   "arrondissement": "953"
   },
   "95277": {
    "canton_code": "9521",
@@ -1614,7 +1793,8 @@
    "circos": [
     "95009"
    ],
-   "maire": "Cédric SABOURET"
+   "maire": "Cédric SABOURET",
+   "arrondissement": "952"
   },
   "95205": {
    "canton_code": "9509",
@@ -1622,7 +1802,8 @@
    "circos": [
     "95007"
    ],
-   "maire": "Catherine DELPRAT"
+   "maire": "Catherine DELPRAT",
+   "arrondissement": "952"
   },
   "95554": {
    "canton_code": "9520",
@@ -1630,7 +1811,8 @@
    "circos": [
     "95001"
    ],
-   "maire": "Florence BINAUX LE CLECH"
+   "maire": "Florence BINAUX LE CLECH",
+   "arrondissement": "953"
   },
   "95493": {
    "canton_code": "9509",
@@ -1638,7 +1820,25 @@
    "circos": [
     "95009"
    ],
-   "maire": "Patrick FAUVIN"
+   "maire": "Patrick FAUVIN",
+   "arrondissement": "952"
+  }
+ },
+ "arrondissements": {
+  "951": {
+   "nom": "Argenteuil",
+   "cheflieu": "95018",
+   "type": "sous-préfecture"
+  },
+  "952": {
+   "nom": "Sarcelles",
+   "cheflieu": "95585",
+   "type": "sous-préfecture"
+  },
+  "953": {
+   "nom": "Pontoise",
+   "cheflieu": "95500",
+   "type": "préfecture (chef-lieu du département)"
   }
  }
 }
